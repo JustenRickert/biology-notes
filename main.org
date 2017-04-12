@@ -1,0 +1,3013 @@
+#+TITLE: biology 1010
+#+AUTHOR: Justen Rickert
+
+* extra                                                            :noexport:
+** links
+- [[file:class_note.org][class]]
+- [[file:lab.org][labs]]
+- [[file:debate.org][debate]]
+** LaTeX_HEADER
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{lmodern}
+# #+OPTIONS: toc:nil
+* Questions                                                        :noexport:
+- *What are hormones / What are endocrine glands?*
+
+  /Hormones/ are blood-borne units of information sent through the body. Hormones
+  are secreted by glands of the /endocrine system/.
+
+- *How do hormones travel in the body---what body system does the body use to
+  transport hormones?*
+
+  Hormones are /blood-borne/ units of information sent through the body's
+  /cardiovascular system/.
+
+- *What hormones are involved in the release and control of Testosterone. Where
+  do these hormones originate? FSH and LH*
+
+  The /testes/ produce /testosterone/. FSH and LH and secreted from the /anterior
+  pituitary gland/,
+ 
+- *What is the action of testosterone. How are testosterone levels regulated?*
+
+  When testosterone is too low, the anterior pituitary gland secretes LH into
+  the blood stream which then makes its way to the testes, where testosterone is
+  then produced.
+
+- *What do "steroid abusers" testicles get smaller?*
+
+  Ones' testes stop producing testosterone because there is already very
+  prevalent in the blood system from direct injection by needle.
+
+- What does insulin do / What organ produces it?
+
+- Compare and contrast Type 1 and Type 2 diabetes---Use the Mayo site to help
+  learn about Diabetes.
+- http://www.webmd.com/diabetes/tc/diabetes-differences-between-type-1-and-2-topic-overview
+  - Hypoglycemia :: (Low blood glucose) A diabetic should eat food. Simple
+       carbohydrates or sugars would be good.
+  - Hyperglycemia :: A type 1 diabetic should be taking insulin. A type 2
+       diabetic needs a combination of different oral and injectable
+       medications.
+
+- Why is there no "oral insulin" -- why must it be injected?
+
+- Is there a cure for diabetes?
+
+- What is an auto immune disease?
+
+- Describe the experiment done on Roosters -- the first to examine the function
+  of testosterone. What was the behavior of the roosters before and after the
+  removal of the testicles.
+
+* packet
+** Classification of Major Biochemicals
+1.[[*Carbohydrates /macronutrient/][Carbohydrates]]
+   1) [[*Monosaccharides][Monosaccharides]]
+      + Deoxyribose
+      + glucose
+      + fructose
+   2) [[*Disaccharides][Disaccharides]]
+      + sucrose
+      + lactose
+   3) [[*Polysaccharides][Polysaccharides]]
+      + glycogen
+      + starch
+      + cellulose
+2. [[*Lipids][Lipids]]
+   1) [[*Fatty acids][Fatty acids]]
+   2) [[*Phospholipids][Phospholipids]] 
+   3) [[*Triglycerides][Triglycerides]] 
+   4) [[*Steroids][Steroids]]
+3. [[*Proteins][Proteins]] (Polymers made of /amino acid/ monomers)
+   - [[*Gluten][Gluten]]
+   - [[*Insulin][Insulin]]
+   - [[*Elastin][Elastin]]
+   - [[*Collagen][Collagen]]
+   - [[*Hemoglobin (Hb `or` Hgb)][Hemoglobin]]
+
+4. Nucleic Acids
+   - [[*Deoxyribonucleic acid][DNA]]
+   - [[*Ribonucleic acid][RNA]]
+
+*** Carbohydrates /macronutrient/
+    sugars, starches, and fibers found in fruits, grains, vegetables, and milk
+    products. One of three main ways the body obtains energy or calories.
+    
+    /biological molecule/ consisting of carbon (C), hydrogen(H), and oxygen(O).
+
+**** Monosaccharides
+     + pop has monosaccharides
+     + fructose is sweet
+       - When there is no exercise, fructose \rarr{} glycogen \rarr{} fat.
+
+     - Latin /mono-/ one, smallest
+
+***** Deoxyribose [2-deoxyribose] C_{5}H_{10}O_{4}
+     - Modern /deoxy sugar/ less oxygen; it is derived from the sugar ribose.
+
+***** Glucose C_{6}H_{12}O_{6}
+      sugar with 6 carbon atoms classed as monosaccharides
+
+      circulates in the blood of animals as blood sugar. In plants is made
+      during photosynthesis from water and carbon dioxide, using energy from
+      sunlight.
+      
+**** Disaccharides
+     - Latin /di-/ two
+
+***** sucrose
+      Sucrose is found in many food plants.
+
+***** maltose
+      Produced during the malting of barley.
+
+**** Polysaccharides
+     /polymeric/ /carbohydrate/ molecules composed of long chains of monosaccharides
+
+     - Latin /poly-/ many
+
+***** Glycogen
+
+      multibranched /polysaccharide/ of /glucose/. Main storage form of
+      /glucose/ in the body.
+
+***** Starch
+      polymeric carbohydrate with a large number of glucose joined by glycosidic
+      bonds. Produced by most green plants as an energy store. Most common
+      carbohydrate in human diets.
+
+      - glycosidic bonds :: covalent bond that joins a carbohydrate (sugar)
+           molecule to another group, which may or may not be another
+           carbohydrate.
+
+***** Cellulose C_{6}H_{10}O_{5}
+      organic compund, a linear chain of several hundred to many thousands of
+      \beta{}(1\rarr{}4) linked D-glucose units. Important structural component of the
+      primary cell wall of green plants, many forms of algae, and /oomycetes/.
+
+      - D-glucose :: D-isomer of /glucose/, also known as /dextrose/, occurs widely
+           in nature.
+
+      - Oomycetes :: distinct phylogenetic lineage of fungus-like eukaryotic
+           microorganisms.
+
+*** Lipids
+    They are basically fats.
+
+**** Fatty acids
+     Carboxylic acid with a long aliphatic chain. This guy looks crazy, though.
+     
+     The chains range from 4 to 28 carbon atoms.
+
+     - Unsaturated fatty acids
+       - cis
+       - trans
+       
+**** Phospholipids
+     Major component of all cell membranes. They can form /lipid bilayers/
+     because of their /amphiphilic/ characteristic. (It has /hydrophilic/ water
+     loving and /lipophilic/ fat loving properties.) 
+
+     /hydrophilic phosphate/ head, /hydrophobic fatty acid/ tails
+
+     - /amphis/ both /philia/ love, friendship /hydro-/ water
+
+**** Triglycerides
+     Ester derived from /glycerol/ and three /fatty acids/. Having a high amount
+     of /triglycerides/ can be very bad for your heart. Triglycerides are
+     /lipids/ and are fatty.
+    
+***** glycerol
+      Colorless, odorless, viscous liquid; sweet, non-toxic. This is the
+      backbone found in all lipids know as triglycerides.
+
+      Used in food industry as a sweetener and humectant and in pharmaceutical
+      formulations.
+
+        - humectant :: keeps things moist.
+
+**** Steroids
+     Organic compound with four rings arranged in a specific configuration.
+     Steroids serve two principal biological functions: certain steroids are
+     important components of cell membranes which alter membrane fluidity, and
+     many steroids are signaling molecules which activate steroid hormone
+     receptors.
+
+***** sex hormones
+      Influence sex differences and support reproduction. 
+
+      - /androgens/, /estrogens/, and /progestagens/
+
+***** corticosteroids
+      With natural product classes the /glucocorticoids/ and the
+      /mineralocorticoids/
+
+      - glucocorticoids :: Regulates many aspects of metabolism and immune function.
+
+      - mineralocorticoids :: Help maintain blood volume and control renal
+           excretion of electrolytes.
+
+*** Proteins
+    Large biomolecules, or macromolecules consisting of one or more long chains
+    of /amino acid/ /residues/. Just like /polysaccharides/ and /nucleic acids/,
+    /proteins/ are essential parts of organisms and participate in virtually
+    every process within cells.
+
+    They have an average lifespan of 1-2 days in mammalian cells.
+
+**** Gluten
+     Mixture of proteins found it wheat and related grains.
+
+     - Latin /gluten/ glue
+
+**** Insulin
+     Peptide hormone produced by beta cells. Affects the metabolism of
+     carbohydrates.
+     
+**** Elastin
+     Highly elastic protein in connective tissue. Elastin helps skin to return
+     to its original position when it is poked or pinched.
+
+**** Collagen
+     Main structural protein in the extracellular space in the various
+     connective tissues in animal bodies.
+
+**** Hemoglobin (Hb `or` Hgb)
+     Iron-containing oxygen-transport metalloprotein. Hemoglobin in the blood
+     carries oxygen from the respirator organs to the rest of the body.
+
+     Also haemoglobin
+
+     - metalloprotein :: generic term for a protein that contains a /metal ion
+          cofactor/.
+
+*** Nucleic Acids
+**** Deoxyribonucleic acid
+     Molecule that carries the genetic instructions used in the growth,
+     development, functioning, and reproduction of all know living organisms and
+     many viruses.
+     
+**** Ribonucleic acid
+     Polymeric molecule essential in various biological roles in coding,
+     decoding, regulation, and expression of genes.
+     
+* book
+** Ch. 1
+*** Seven characteristics of life
+    - being made of cells
+
+      Single-cell organisms have everything they need to be self-sufficient. In
+      multicellular organisms, specialization increases until some cells do only
+      certain things.
+     
+    - responsiveness to the environment
+
+      Living things will make changes in response to a stimulus in their
+      environment. A behavior is a complex set of responses.
+
+    - growth and change
+
+      Cell division -- the orderly formation of new cells. cell enlargement --
+      the increase in size of a cell. An organisms gets larger as the number of
+      its cells increases.
+
+    - ability to reproduce
+
+      Reproduction is not essential for survival of individual organisms, but
+      must occur for species to survive.
+
+    - have the metabolism and breathe / have energy
+
+      Living things take in energy and use it for maintenance and growth.
+
+    - maintain homeostasis
+
+      There is an organization to all the parts of life that means they all
+      depend on each other, and they must all be in equilibrium.
+
+    - passing traits onto offspring
+
+      Adaptions are traits giving an organism an advantage in a certain
+      environment.
+
+**** Macromolecules
+
+     Four major molecules essential for all known forms of life are 
+
+     - RNA
+     - DNA
+     - Proteins
+     - Carbohydrates
+   
+**** Enzyme
+
+     Macromolecule biological catalyst. /Enzymes/ accelerate, or catalyze,
+     chemical reactions. Lower /activation energy/ to increase rate of a
+     reaction. 
+
+     Usually /proteins/. A lot of the time used to break down more complex
+     chemicals and compounds.
+    
+*** Scientific Method
+    - Ask a Question
+    - Construct a Hypothesis
+    - Test with experiment
+    - Analyze data and draw conclusions
+    - Communicate results
+
+** Ch. 2
+   Scale for acidity or basicity of an aqueous solution. Measure of the hydrogen
+   ion density in the the solution.
+
+   - Carbon is the basis of organic molecules.
+
+   - Lipids are not soluble in water.
+
+   - ATP :: /Adenosine triphosphate/ A small molecule used in cells as a
+        coenzyme.
+
+        The molecular unit of currency of intracellular energy transfer.
+
+** Ch. 3
+   - Cholesterol :: An organic molecule; a sterol (or modified steroid), a lipid
+        molecule and is biosynthesized by all animal cells. An essential
+        structural component of all animal cell membranes that is required to
+        maintain both membrane structural integrity and fluidity.
+
+     - Latin /chole-/ bile /stereos/ solid
+
+   - Fluid mosaic :: The plasma membrane can be described as fluid combination
+        of phospholipids, cholesterol, and proteins. Fluid on inside and outside
+        of the membrane.
+
+   - Diffusion :: Movement of molecules or atoms from a region of high
+        concentration to a region of low concentration.
+
+   - Osmosis :: Movement of solvent molecules *through a semi-permeable
+        membrane* into a region of higher solute concentration.
+
+*** Diffusion vs. Active Transport
+
+    | Diffusion (Passive Transport) | Active Transport |
+    |-------------------------------+------------------|
+    | quick                         | slow             |
+    | down a gradient               | up a gradient    |
+    | no energy                     | need energy      |
+    | no protein                    | need protein     |
+
+    - Endocytosis :: Form of active transport in which a cell transports
+         molecules by engulfing them in an energy-using process.
+
+    - Exocytosis :: Form of active transport in which cell transports molecules
+         out of the cell.
+
+** Ch. 5
+   The /skeletal system/ is composed of bones, ligaments, and cartilage; it is an
+   /organ system/. It _supports_ and _protects_ the other organ systems of the
+   body and provides a structure that enables _movement_.
+
+   Bones are living cells surrounded by extracellular deposits of calcium
+   minerals. 
+    - Support
+    - Movement
+    - Protection
+    - Formation of blood cells
+    - Mineral and fat storage
+      - like phosphorous, calcium
+
+*** four types of bones
+    - long :: arms, legs
+    - short :: wrist, feet
+    - flat :: ribs, skull
+    - regular :: all the rest
+
+*** Connective tissues
+- Bone :: Hard elements of the skeleton. Store minerals and produce the
+     cellular components of blood.
+
+     /Bones/ are hard because of nonliving extracellular crystals of calcium
+      minerals; hard, rigid, appearance and feel. /Bones/ are living cells,
+      and undergo constant replacement, remodeling, and repair.
+  - support
+  - protection
+  - movement
+- Long bone :: It is longer than it is wide, consists of a cylindrical
+     shaft /*diathesis*/, and an enlarged knob called an /*epiphysis*/.
+- Compact bone :: Forms the shaft and covers each end.
+  - Osteocytes :: Mature bone cells that maintain the structure of bone.
+       The /compact bone/ is made up largely of extracellular deposits of
+       calcium phosphate enclosing and surrounding living cells.
+    - Greek /osteo/ bone /cyte/ cell
+  - Osteons :: [Haversian systems] Osteocytes arranged in rings in
+       cylindrical structures.
+  - Central canal :: [Haversian canal] /Ostecytes/ nearest the center of an
+       /osteon/ receive nutrients from diffusion from blood vessels.
+
+  - Spongy bone :: Inside each epiphysis. It is a latticwork of hard,
+       relatively string /trabeculae/ (Latin "little beams") composed of
+       calcium minerals and living cells.
+
+       /*note*/ Spongy bone doesn't need to rely on central canals for
+       nutrients and waste removal. The slender /trabecular/ structure of
+       spongy bone gives each osteocyte access to nearby blood vessels in red
+       bone marrow.
+
+       A /trabecular/ structure is a latticework of interconnected beams.
+
+- Joint :: The point of contact between bones.
+
+- Ligaments :: Dense, fibrous connective tissue that attach bone to bone.
+     They are a regular array of closely packed collaen fibers all oriented
+     in the same direction, with just a few /fibroblasts/ in between.
+
+     /Ligaments/ are slow to heal because they have very few living cells and
+     a poor blood supply.
+
+- Cartilage :: Specialized connective tissue consisting primarily of fibers
+     of collagen and elastic in a gel-like fluid called /ground substance/.
+
+  - Fibrocartilage :: Collagen fibers arranged in thick bundles.
+  - Hyaline cartilage :: Smooth, glassy cartilage of thin collagen fibers.
+  - Elastic cartilage :: Mostly elastin fibers, so it is highly flexible.
+
+*** Bone development
+    At the earliest stages of fetal development, before organs develop, we have
+    /chondroblasts/. After about two to three months of fetal development,
+    /ossification/ happens.
+
+    - Chondroblasts :: Cartilage-forming cells that build a model of the future
+         bone. These /chrondroblasts/ are rudimentary models of future bones and
+         are created out of /hyaline cartilage/.
+
+    - Ossification :: Chondroblasts slowly die out and the cartilage models
+         begin to dissolve and are replaced by bone.
+
+    - Osteoblasts :: _Young bone-forming_ cells that cause the hard extracellular
+         matrix of bone to develop.
+
+         They secrete both /osteoids/, and /hydroxyapatite/. In _mature_ /compact bone/,
+         approximately one-third of the structure is /osteoid/ and two-thirds is
+         crystals of /hydroxyapatite/.
+
+         Eventually, the rate at which /osteoblasts/ produce the /osteoid/
+         matrix and stimulate the mineral deposits declines, and /*osteoblasts*/
+         *become* mature /*osteocytes*/ embedded in their individual /lacunae/.
+
+      - Osteoid :: Mixture of proteins that forms a matrix that provides
+           internal structure and strength to bone.
+
+      - Hydroxyapatite :: Hard mineral salts of calcium phosphate
+
+    - Osteclasts :: Bone-dissolving cells.
+
+         Cut through mature bone tissue, dissolving the /hydroxyapatite/ and
+         digesting the /osteoid/ matrix in their path. The released calcium and
+         phosphate ions enter the blood.
+
+         The areas from which bone has been removed attract new osteoblasts,
+         which lay down new osteoid matrixes and stimulate the deposition of new
+         hydroxyapatite crystals.
+
+    - Growth plate :: [epiphyseal plate] A narrow stip of /cartilage/ that
+         remains in each /epiphysis/. This is where there is bone on one side,
+         and cartilage on the other side.
+
+    - Osteoporosis :: Common bone disease in which bones lose a great deal of
+         bone mass (seemingly becoming "porous"). The honeycomb shape of bone
+         becomes more porous for those with /osteoporosis/.
+
+    - Hematoma :: Mass of clotted blood
+
+    - Fibrocarttilage callus :: When a bone breaks, this forms between the
+         broken ends and is later replaced with bone.
+
+    - Parathyroid hormone :: [PTH] stimulates the /osteoclasts/ to secrete more
+         bone-dissolving enzymes.
+
+    - Calcitonin :: stimulates /osteoblast/ activity, causing calcium and
+         phosphate to be removed from blood and deposited in bone.
+
+*** Skeletal system
+The /skull/ and /vertebral column/ protect the /brain/ and /spinal cord/,
+the /rib cage/ protects the organs of the chest cavity, and the /pelvic
+girdle/ supports the body's weight and protects the pelvic organs. The upper
+limbs are capable of a wide range of motions (dexterous movement). The lower
+limbs are stronger but less dexterous than the upper limbs
+- Axial skeleton :: 80 bones, including the skull, vertebral column, ribs,
+     and sternum.
+  - Cranium :: [skull] Comprises over two dozen bones that protect the brain and
+       form the structure of the face.
+  - Cranial bones :: Flat bones in the skull that enclose and protect the brain.
+    - Frontal bone :: Comprises the forehead and the upper ridges of the eye
+         sockets.
+    - Parietal bones :: [two] Upper left and right sides of the skull.
+    - Temporal bones :: [two] Forms the lower left and right sides of the skull.
+    - Sphenoid bone :: Forms the back of both eye sockets.
+    - Ethmoid bone :: Contributes to the eye sockets and also helps support the
+         nose.
+    - Nasal bones :: [two] Small, narrow; underlie only the upper bridge of the
+         nose; the rest of the fleshy protuberance called the nose is made up of
+         cartilage and other connective tissue.
+    - Lacrimal bones :: [small] At the inner eye socket, are pierced by a tiny
+         opening through which the tear ducts drain tears from the eye sockets
+         into the /nasal cavity/.
+    - Mandible :: [lower jaw] Contains the sockets that house the lower row of
+         teeth.
+    - Occipital bone :: Curving underneath to form the back and base of the
+         /skull/.
+    - Foramen magnum :: [Latin "great opening"] Where the /vertebral column/
+         connects to the /skull/ and the /spinal cord/ enters the /skull/ to
+         communicate with the brain.
+  - Facial bones :: compose the front of the skull.
+    - Maxilla :: On either side of the nose, forming part of the eye sockets and
+         contain the sockets that anchor the upper row of teeth.
+    - Palatine bones :: [two] Irregular bones, comprise the hard palate at
+         the back part of the nasal cavity.
+    - Zygomatic bones :: [cheekbone or malar bone] paired bone which
+         articulates with the maxilla.
+  - Sinuses :: Air spaces in the /cranial/ and /facial bones/ that make the
+       skull lighter and give the human voice its characteristic tone and
+       resonance.
+
+       Each sinus secretes /mucus/, a thick, sticky fluid that helps trap
+       foreign particles in incoming air. They connect to the /nasal cavity/
+       via small passageways through which the mucus normally drains.
+  - Hyoid bone :: Does not make direct contact with other bones of the
+       /axial skeleton/; it is attached to the /temporal bone/ only by
+       /ligaments/. Serves as a point of attachment for muscles of the
+       /tongue/, the /larynx/, and the /pharynx/.
+  - Vertebral column :: The body's main axis. It _supports_ the head,
+       _protects_ the /spinal cord/, and serves as the site of _attachment_
+       for the four limbs and various muscles. It has 5 anatomical regions.
+
+       Neighboring vertebrae are separated from each other by a flat,
+       elastic, compressible /*intervertebral disk*/ composed of a soft,
+       gelatinous center and a tough outer layer of /fibrocartilage/.
+    - Cervical vertebrae :: [7 vertebrae] Neck
+    - Thoracic vertebrae :: [12 vertebrae] The chest or thorax
+    - Lumbar vertebrae :: [5 vertebrae] Lower portion or "small" of the back
+         which forms the lumbar curve of the spine
+    - Sacral :: [5 vertebrae fused] In the /sacrum/ or upper pelvic region
+    - Coccygeal :: [4 vertebrae fused] The /coccyx/ or tailbone. It is an
+         example of a /vestigial structure/.
+  - Ribs :: One end of each rib branches from the /thoracic/ region of the
+       /vertebral column/. The other ends of the upper seven pairs attach
+       via /cartilage/ to the /sternum/.
+
+       Humans have 12 pairs of ribs.
+  - Sternum :: [breastbone] A flat blade-shaped bone composed of three
+       separate bones that fuse during development.
+- Appendicular skeleton :: {Pectoral girdle, pelvic girdle, and limbs}
+     Consists of those parts of the body that attach, or are appended to,
+     the /axial skeleton/. Includes the arms, legs, and their attachments to
+     the trunk, which are the /pectoral/ and /pelvic girdles/.
+  - Pectoral girdle :: Lends flexibility to the upper limbs. 
+    - Clavicle :: [collar bone] Extend across the top of the chest and
+         attach to the /scapulas/.
+
+         Most frequently broken bone.
+    - Scapula :: [shoulder blade] The triangular bones in the upper back.
+  - arm and hand :: Consists of 30 different bones.
+
+       The humerus is the first and meets at the scapula. The lower end of
+       the /radius/ an /ulna/ meet the /carpal bones/. A group of eight
+       small bones that make up the wrist. The five /metacarpal/ bones form
+       the palm of the hand, and they join with the 14 /phalanges/, which
+       form the fingers and thumb.
+    - Humerus :: [upper arm] The long bone of the upper arm, fits into a socket in the
+         /scapula/.
+    - Ulna :: Meets with the other end of the humerus as does the /radius/.
+         Bone of the forearm.
+
+         The elbow around here is nicknamed the "funny bone."
+    - Radius :: bone of the forearm.
+    - Carpal :: [wrist]
+
+         Repetitive motions can lead to health problems called /repetitive
+         stress syndromes/. One well-known repetitive stress syndrome is
+         /carpal tunnel syndrome/. Inflammation of the tendons causes them
+         to press against the nerve supplying the hand, resulting in pain,
+         tingling, or numbness in the wrist and hand.
+    - Metacarpals :: [hand]
+    - Phalanges :: [finger bones]
+  - Pelvic girdle :: Supports the body, and consists of two /coxal/ bones
+       and the /sacrum/ and /coccyx/ of the /vertebral column/. 
+
+       The primary function of the pelvic girdle is to support the weight of
+       the upper body against the force of gravity. The lower limbs are
+       larger and more firmly connected to the rest of the body than the
+       pectoral girdle and upper limbs.
+    - Coxal bone :: Attach to the /sacral/ region of the /vertebral column/ in
+         back, then curve forward to meet in from at the /pubic symphysis/,
+         which is right around the groin it looks like, where they are joined
+         by cartilage.
+  - Femur :: [thighbone] Longest and strongest bone in the body. 
+
+       The rounded upper end of each /femur/ fits securely into a socket in
+       a /coxal bone/. The lower end of the femur intersects at the knee
+       joint with the larger of the two bones of the lower leg, the /tibia/,
+       which in turn makes contact with the thinner /fibula/.
+  - Tibia :: [shinbone] Bigger lower leg bone in front.
+  - Fibula :: [calf bone] Smaller of the two lower leg bones in the back.
+
+       At the ankle, the /tibia/ and /fibula/ join with the seven /tarsal
+       bones/ that make up the ankle and heel. Five long bones, the
+       /metatarsals/, form the foot. The 14 bones of the toes, like those of
+       the fingers, are called /phalanges/.
+  - Patella :: [kneecap] A triangle-shaped bone that protects and stabilizes
+       the knee joint.
+  - Tarsals :: 
+  - Metatarsals ::
+  - Phalanges ::
+*** Joints form connections between bones
+    Structure and tissues that hold the skeleton together while still permitting
+    us to move about freely: /joints/, /ligaments/, and /tendons/.
+
+    Joints are points of contact between bones. Fibrous joints are immovable in
+    adults, cartilaginous joints permit some movement, and synovial joints are
+    highly movable. Synovial joints are held together by ligaments and
+    lubricated by synovial fluid.
+
+    - Joints :: {articulations} The points of contact between bones.
+
+         Vary considerably from basically immovable to freely movable. Types of
+         joints include /fibrous/, /cartilaginous/, and /synovial/ joints.
+
+      - Fibrous joints :: Immovable.
+
+      - Fontanels :: At birth, the flat bones in a baby's skull are separated by
+           relatively large spaces filled with fibrous connective tissue. These
+           "soft spots" are /fontanels/.
+
+           The presence of joints also allows for brain growth and development
+           after birth. During childhood these fibrous joints gradually harden.
+           They are tiny, thin sutures by the time we are old.
+
+      - Cartilaginous joints :: Bones are connected by /hyaline cartilage/, they
+           are slightly movable and give some flexibility.
+
+           Examples include the cartilaginous joints that connect the
+           /vertebrae/ in the backbone, and those that attach the lower /ribs/
+           to the /sternum/.
+
+      - Synovial joints :: The most freely moving joints are these. Bones are
+           separated by a thin fluid-filled cavity. The two bones are of a
+           synovial joint are fastened together and stabilized by /ligaments/.
+
+           The interior is lined with a /synovial membrane/ which secretes
+           /synovial fluid/ to lubricate and cushion the joint. The
+           /articulating/ surfaces of the two bones are covered with a tough but
+           smooth layer of /hyaline cartilage/. Together the synovial membrane
+           and the surrounding hyaline cartilage constitute the /joint capsule/.
+
+           To reduce friction there are small disks of /cartilage/ on either
+           side of the knee called /menisci/. The knee joint [hinge joint] also
+           includes 13 small sacs of fluid, called /bursae/, for additional
+           cushioning.
+
+        - Synovial fluid ::
+
+        - Synovial membrane ::
+
+        - Joint capsule ::
+
+        - Hinge joint :: Like the knee or elbow, gets its name because it allows
+             movement in one plane like the hinges on a door.
+
+        - Ball and socket joint :: Permits an even wider range of movement that
+             the /hinge joint/.
+
+             Thanks to its design, a synovial joint can withstand tremendous
+             friction without wearing out. It gets its strength from
+             /ligaments/, /tendons/, and /muscles/.
+
+    - Ligaments and tendons :: Connective tissues that stabilize many joints.
+
+         Ligaments and tendons contain collagen arranged in parallel fibers,
+         making ligaments and tendons as strong and as flexible as a twisted
+         nylon rope. You can test how good these things are by loosening up your
+         legs and moving your /patella/ around. When you put tension in the
+         ligaments and tendons again though it doesn't move.
+
+*** Diseases and disorders of the skeletal system
+** Ch. 6
+*** Muscles produce movement or generate tension
+      40% of body weight in males in muscle, 32% in females.
+
+      - Skeletal muscles :: Most interact with the skeleton and cause bones to
+           move (or to prevent them from moving) relative to each other.
+        - Shivering, threading a needle, lifting heaving weights, standing
+          completely still, etc. are all tasks accomplish be skeletal muscles.
+        - We have more that 600 skeletal muscles, often organized into pairs or
+          groups. Hundreds of muscles, each controlled by nerves and acting
+          either individually or in groups, produce all possible human motions.
+          Muscle groups that work together to create the same movement are
+          called /synergistic muscles/. Muscles that oppose each other are called
+          /antagonistic muscles/.
+      - Smooth muscle :: [involuntary] Contracts/relaxes without your conscious
+           though.
+      - Cardiac muscle :: [involuntary muscle] Makes up the heart.
+      - Skeletal muscle :: [voluntary] Muscle tissue that is typically attached
+           to the skeletal muscle for movement.
+      - Tendons :: Connects muscles to bones.
+      - Ligaments :: Connects bones to bones.
+      - Synergistic muscles :: Muscles that work together to create the same
+           movement.
+      - Antagonistic muscles :: Muscles that oppose each other.
+      - Origin :: End of muscle that attaches to relatively stationary bone.
+      - Insertion :: End of muscle attached to another bone across a joint; the
+           "movable" end of the muscle.
+
+**** Muscles
+     Muscles either produce or resist movement. Their fundamental activity is
+     /contraction/. A muscle is composed of many muscle cells arranged in
+     parallel, each containing numerous /myofibrils/. The contractile unit in a
+     myofibril is called a /sarcomere/. A sarcomere contains think filaments of a
+     /protein/ called /myosin/ and thin filaments of a protein called /actin/.
+    
+***** Internal
+      - Myofibrils :: The nuclei of singular muscle cells need to be located just
+           under the cell membrane because nearly the entire interior of the cell
+           is packed with these long cylindrical structures arranged in parallel,
+           called /myofibrils/.
+
+           Myofibrils are packed with contractile /proteins/ called /actin/ and
+           /myosin/.
+
+      - Sarcomere :: A segment of a /myofibril/ from one Z-line to the next is
+           called a /sarcomere/.
+
+           A /sarcomere/ consists of two kinds of /protein filaments/. Thick
+           filaments composed of a protein called /myosin/ are interspersed at
+           regular intervals within filaments of a different protein called
+           /actin/.
+
+        - Actin ::
+        - Myosin ::
+
+***** Specific muscles
+      - Buccinator :: Thin quadrilateral muscle, occupying the interval between
+           the maxilla and the mandible at the side of the face.
+
+      - Orbicularis oris :: A complex of muscles in the lips that encircles the
+           mouth.
+
+      - Zygomaticus major ::
+      - Frontalis ::
+      - Orbicularis oculi ::
+      - Masseter ::
+
+      - Sternocleidomastoid ::
+      - Pectoralis major :: Draws arm forward and toward the body
+      - Deltoid :: Raises arm
+      - Latissimus dorsi :: Rotates and draws arm backward and toward body
+      - Trapezius :: Lifts shoulder blade, braces shoulder, draws head back.
+      - Serratus anterior :: Helps raise arm, contributes to pushes, draws
+           shoulder blade forward
+         
+      - External intercostals :: 
+      - Rectus abdominis :: Compress abdomen, bends backbone, compresses chest
+           cavity
+      - External oblique :: Lateral rotation of trunk, compresses abdomen.
+      - Transversus abdominis ::
+      - Biceps brachii :: Straightens forearm at elbow
+      - Triceps brachii :: Lifts shoulder blade, braces shoulder, draws head back.
+           Rotates and draws arm backward and toward body.
+
+      - Gluteus maximus :: Butt muscles; extends thigh, rotates thigh laterally.
+      - Hamstrintgs :: helps your knee bend; draws thigh backward, bends knee
+        - Biceps femoris :: [not important]
+        - Semimembranosus :: [not important]
+        - Semitendinosus :: [not important]
+      - Adductor Longus :: Flexes thigh, rotates thigh laterally, draws thigh
+           toward body. Inner thigh muscle.
+      - Gastrocnemius :: Bends lower leg at knee, bends foot away from knee. Calf
+           muscles
+
+      - Quadriceps femorus :: Flexes thigh at hips, extends leg at knee. Front of
+           upper leg area.
+        - Rectus femoris ::
+        - Vastus lateralis ::
+        - Vastus medialis ::
+        - Vastus intermedius :: 
+      - Sartorius :: Rotates thigh outward.
+      - Tibialis anterior :: Front of lower leg. Shin splints area
+      - Achilles tendon :: Connects gastrocnemius muscle to heel.
+
+***** Always contract, never push
+      - The can only Pull, never PUSH
+      - Muscles contract in response to electrical or chemical stimuli.
+
+**** another word to eat
+     - mastication :: another word for eating.
+
+          A lab T.A. said this would be on the test!
+
+**** Movements
+     - Flexion :: Decreases angle of the joint between two structures.
+
+     - Extension :: Increases angle of the joint between two structures.
+
+     - Abduction :: Moves bone away from the midline of the body.
+
+     - Adduction :: Moves bone toward the midline of body ("add" to the body's
+          midline).
+
+     - Rotation :: Bone spins around its own axis.
+
+     - Circumduction :: Bone describes a cone in three-dimensional space.
+
+     - Supination :: Rotation of the forearm so palm faces anteriourly (imagine
+          holding a bowl of soup).
+
+     - Pronation :: Rotation of the forearm so palm faces posteriorly.
+
+*** Individual muscle cells contract and relax
+    During a muscle contraction each sarcomere shortens just a little. Subtle
+    though this action seems, it is also powerful. The contraction of an entire
+    skeletal muscle depends on the simultaneous shortening of the tiny
+    sarcomeres in its cells.
+
+    - A skeletal muscle cell must be activated by a nerve. It does not contract
+      on its own.
+    - Nerve activation increases the concentration of calcium (Ca) in the
+      vicinity of the contractile proteins.
+    - The presence of calcium permits contraction. The absence of calcium
+      prevents contraction.
+    - When a muscle cell is no longer stimulated by a nerve, contraction ends.
+
+**** Nerves activate skeletal muscles
+     - Motor neurons :: Skeletal muscle cells are stimulated to contract by
+          these nerve cells.
+
+          The motor neuron secretes /acetylcholine/ (ACh) a /neurotransmitter/.
+          The nerve cell has only either an excitatory or inhibitory effect.
+
+     - Neuromuscular junction :: The junction between a motor neuron and a
+          skeletal muscle cell.
+
+          /Acetylcholine/ is released when there are electrical impulses
+          traveling in a motor neuron. Acetylcholine binds to receptor sites on
+          the muscle cell membrane, causing muscle cell membrane to generate an
+          electrical impulse traveling in all directions. /T tubules/ or
+          /transverse tubules/ transmit these random electrical impulses to all
+          parts of the cell as quickly as possible.
+
+**** Activation releases calcium
+     - Sarcoplasmic reticulum :: A series of membrane-bound chambers in close
+          contact to transverse tubules. It is forced to fit into the small
+          amount of space in the cell not occupied by myofibrils. The primary
+          function of the sarcoplasmic reticulum is to store ionic calcium
+          (Ca^{2+})
+
+          Latin /sarco-/ flesh or muscle
+
+**** Calcium initiates the sliding filament mechanism
+     Contraction is inhibited unless calcium is present. Closely associated to
+     the /actin/ and /myosin/ are two other /protein/ molecules called
+     /troponin/ and /tropomyosin/, together /troponin-tropomyosin protein
+     complex/. 
+
+     - Sliding filament mechanism :: Muscles contract when sarcomeres shorten,
+          and sarcomeres shorten when the thick and thin filaments slide past
+          each other.
+
+** Ch. 9
+*The Immune System and Mechanisms of Defense*
+
+- Pathogen :: Living organisms (bacteria) which cause disease.
+
+     Note that not /all/ bacteria are pathogens. Indeed, some are highly
+     beneficial.
+     
+*** Self vs. non-self
+- B cell :: Each B cell produces unique B cell receptors which react only to
+     specific antigens. (Also applicable to T cells.) Created in bone marrow
+     with a random.
+
+*** Pathogens cause disease
+
+*** The lymphatic system defends the body
+
+*** Keeping pathogens out: The first line of defense
+Various mechanisms create an inhospitable environment for pathogenic
+microorganisms. _Skin_ is a dry outer barrier. _Tears_, _saliva_, _earwax_, and _mucus_
+trap pathogens or wash them away. _Acidic conditions_ kill them or inhibit their
+growth; _urination_, _defecation_, and _vomiting_ forcibly expel them; and _resident
+bacteria_ compete with pathogens for food.
+
+Most successful /pathogens/ _enter_ the body at places _where_ we do _not_ have /skin/.
+Enter through the mucous membranes that line the /digestive/, /urinary/,
+/respiratory/, and /reproductive/ tracts; taking advantage of moist surfaces in
+direct contact with living cells.
+
+- Skin
+  1. *structure* has /keratin/ which is good
+  2. *constant replacement* sheds away pathogens on skin
+  3. *acidic pH* Low pH makes skin a hostile environment for many microorganisms.
+  4. production of *antibiotic* by sweat glands
+- *tears*, *saliva*, and *earwax* contain /lysozyme/. Saliva lubricates, and prevents
+  cracking.
+- *Mucus* Thick, gel-like material secreted by cells at various surfaces of the
+  body. Microorganisms coming in contact with mucus becomes mired and cannot
+  gain access to the cells beneath.
+- *Digestive* and *vaginal acids*. Undiluted, acids are strong enough to kill nearly
+  all pathogens.
+- *Vomiting*, *urination*, and *defecation*
+- *Resident bacteria* Help control the population of deadly pathogens by competing
+  with them successfully for food.
+
+
+- Keratin :: Forms a dry, tough, somewhat elastic barrier to the entry of
+     microorganisms.
+- Lysozyme :: An enzyme that kills many bacteria.
+
+*** Nonspecific defenses: The second line of defense
+[[file:Ch. 9/immune_2016-11-16_23-18-44.png]]
+Nonspecific defense mechanisms involve a general attack against all foreign and
+damaged cells. /Neutrophils/ and /macrophages/ engulf and digest bacteria and
+damaged cells, and /eosinophils/ bombard larger organisms (too large to be
+engulfed) with digestive enzymes. The inflammatory response attracts /phagocytes/
+and promotes _tissue healing_. /Interferons/ interfere with viral reproduction, and
+a modest /fever/ enhances our ability to fight infections.
+
+If /pathogens/ manage to breach our physical and chemical barriers and start to
+kill or damage cells, there is a problem. The body must actively _seek out_ the
+/pathogens/ and get rid of them, then _clean up_ the injured area and _repair_ the
+damage. /Phagocytes/ are /white blood cells/ that destroy foreign cells through the
+process of /phagocytosis/. A /phagocyte/ first captures a bacterium with its
+cytoplasmic extensions, then draws the bacterium in, eventually engulfing it
+(/endocytosis/) and enclosing it in a membrane-bound vesicle. Powerful enzyme in
+the /lysosomes/ dissolve the bacterial membranes and then the WBC jettisons the
+bacterial wastes (/exocytosis/).
+
+- Monocyte :: (WBC) Largest type of leukocyte; can differentiate into
+     macrophages.
+- Phagocyte :: Cells which protect the body by ingesting (phagocytosing) harmful
+     foreign particles.
+- Phagocytosis :: Process in which white blood cells destroy foreign cells in
+     the body by engulfing it inside a membrane and digesting it with enzymes.
+- Lyososome :: Membrane-bound organelle found in animal cells. Spherical
+     vesicles containing enzymes which break down virtually all kinds of
+     biomolecules.
+- Neutrophils ::  First white blood cells to respond to infection. Most abundant
+     type of white blood cell.
+- Macrophages :: White blood cells leaving the vascular system and entering into
+     tissue fluids. They then engulf and digest large numbers of foreign cells,
+     especially viruses and bacterial parasites. Technically no longer blood
+     cells, as they're no longer in the blood.
+[[file:Ch. 9/X2604-M-02_2016-11-16_23-20-10.png]]
+- Eosinophils :: WBC which take on invaders too big for /phagocytosis/. They
+     cluster around large parasites such as flukes and pinworms and bombard them
+     with digestive enzymes. Also digest certain foreign /protein/.
+[[file:Ch. 9/300px-Eosinophils_in_peripheral_blood_2016-11-16_23-16-38.jpg]]
+- Inflammation :: Four outward signs: redness, warmth, swelling, and pain.
+     Starts when tissue is injured. Triggers vasodilation which increases
+     capillary permeability for phagocytes to squeeze through.
+- Interferons :: Cells infected by viruses which secrete a group of proteins
+     called /interferons/ which diffuse to _nearby healthy cells_, bind to their
+     cell membranes, and stimulate the healthy cells to produce proteins that
+     _interfere with_ the _synthesis_ of /viral proteins/, making it harder for the
+     viruses to infect the protected cells.
+- Complement system :: (?) Comprises at least 20 plasma proteins that circulate
+     in the blood and complement, or assist, other defense mechanisms.
+- Fevers :: 
+
+*** Specific defense mechanisms: The third line of defense
+[[file:Ch. 9/800px-Hematopoiesis_simple.svg_2016-11-16_23-24-26.png]]
+An /antigen/ is any substance that provokes an /immune response/. When activated by
+first exposure to a specific /antigen/, /lymphocytes/ called /B cells/ quickly produce
+/antibodies/ against the /antigen/. They also produce a few long-lived /memory cells/
+that remain inactive until the next exposure to the same /antigen/. Other
+/lymphocytes/ called /T cells/ mature in the /thymus gland/. Helper /T cells/ stimulate
+other immune cells, cytotoxic /T cells/ attack abnormal and foreign cells, and
+memory /T cells/ store information until the next exposure to the same /antigen/.
+
+[[file:Ch. 9/nonspecific-immune-response-3-638_2016-11-16_21-26-16.jpeg]] /First
+exposure/ to a specific antigen generates a /primary immune response/. /Subsequent
+exposure/ to the same antigen elicits a /secondary immune response/ that is faster,
+longer lasting, and more effective than the primary immune response.
+
+At first exposure to a particular antigen, the immune system generates a /primary
+immune response/. This involves recognition of the antigen, and production and
+proliferation of /B/ and /T cells/.
+
+- Antigen :: A substance or part of a substance (living or non-living) that
+     the /immune system/ recognizes as _foreign_. It _activates_ the /immune system/
+     and _reacts_ with immune cells or their products, such as /antibodies/. 
+
+     They are like keys for the lock, or antigen-binding site.
+- Antibody :: A /protein molecule/ released by a /B cell/ or plasma cell that _binds
+     to_ a specific /antigen/.
+- Natural killer (NK) cells :: WBC (/lymphocytes/) which target destroy tumor
+     cells and cells infected by viruses. NK cells are able to recognize certain
+     changes that take place in the plasma membranes of tumor cells and
+     virus-infected cells. "Natural killer" is more like "nonspecific killer."
+     _Not_ phagocytes, instead they release chemicals that break down their
+     targets' cell membranes.
+- Immunity :: B and T cells create a population of memory cells. This is the
+     /secondary immune response/ that is faster, longer lasting, and more
+     effective than the first.
+
+*** Immune memory creates immunity
+*** Medical assistance in the war against pathogens
+
+- Active immunization :: Induction of immunity after exposure to a an /antigen/.
+     Can occur naturally or can be artificial.
+- Vaccine :: Biological preparation that provides active acquired immunity to
+     particular disease. An /artificial active immunization/.
+
+*** Tissue Rejection: A medical challenge
+
+*** Inappropriate immune system activity causes problems
+
+*** Immune deficiency: The special case of AIDS
+
+** Ch. 10
+   *The Respiratory System: Exchange of Gases*
+** Ch. 13
+*The Endocrine System*
+
+The /endocrine system/ triggers _sexual maturation_, sexual desire, _uterine
+contractions_ during childhood, and milk letdown. It is involved in response to
+stress, digestion, cellular metabolism, and overall organ growth and
+development. Also is wholly or partly responsible for the maintenance of
+homeostasis of many of the most important variables in the body, including salt
+and water balance, blood pressure, the production of red blood cells, and blood
+calcium concentration.
+
+*** The endocrine system produces hormones
+/Hormones/ are bloodborne units of information, just as /nerve impulses/ are units
+of information carried in /nerves/. The hormones help to maintain /homeostasis/ by
+regulating various body functions through /feedback loops/. /Hormones/ secreted by
+glands of the /endocrine system/ act only on /target cells/ with appropriate
+receptors. /Hormones/ reach their targets via the /circulatory system/, making
+/endocrine system/ control slower than /nervous system/ control. The two systems
+frequently interact.
+
+*Endocrine has certain characteristics setting it apart from the nervous system
+as a communications system*
+1. /Hormones/ of the /endocrine system/ reach nearly every living cell. A distinct
+   advantage over the nervous system. Hormones conveniently circulate in the
+   /blood/ which is everywhere (except CNS).
+2. Each /hormone/ acts only on certain cells. Each hormone acts only on a certain
+   group of cells, called its /target cells/.
+3. Endocrine control tends to be slower than nervous system. A consequence of
+   using the cardiovascular system as the message delivery system. Endocrine is
+   better with longer-term controls, such as regulation of blood pressure,
+   production of red blood cells, and onset of puberty.
+4. The /endocrine/ and /nervous systems/ can (and often do) interact with each
+   other. The timing of growth and sexual maturation, for example, involves a
+   complex sequence of changes in both neural and endocrine signals, and the
+   release of some hormones depends on input from /sensory neurons/.
+
+
+- Hormones :: Circulating chemical messenger molecules secreted by the /endocrine
+     system/'s collection of /specialized cells/, /tissues/, and /glands/.
+- Endocrine glands :: Where the /hormones/ are secreted. Ductless organs that
+     secrete their products into interstitial fluid, lymph, and blood.
+     - /endocrine/ means "secreted internally"
+- Target Cells :: The specific cell in the body with the appropriate receptor
+     for the targeting hormone. As an analogy consider a car needing a specific
+     set of car keys; when the key is put into the ignition it causes the car to
+     start up.
+
+*** Hormones are classified as steroid or non-steroid
+/Hormones/ participate in /negative feedback loops/. As messenger molecules, some
+/hormones/ participate in internal /homeostatic/ control mechanisms and control
+vital physiological processes (they maintain /homeostasis/). /Steroid hormones/
+enter the /target cell/, activate specific genes, and cause the production of new
+/proteins/. /Non-steroid hormones/ bind to a /cell membrane receptor/ that either
+opens or closes ion channels or activates a /second messenger/ within the cell.
+
+*note*: Most of the /hormones/ discussed in this chapter are non-steroid. The only
+/steroid hormones/ are those produced by the cortex of the /adrenal gland/ (cortisol
+and aldosterone) and the sex hormones produced by the /testes/ (testosterone) and
+/ovaries/ (estrogen and progesterone).
+
+[[file:Ch. 13/slide_8_2016-11-07_11-46-51.jpg]]
+
+*A negative feedback loop involving a hormone.* In response to a change in the
+controlled variable, the endocrine gland releases a hormone that acts on target
+cells to return the controlled variable to its normal state. Any change in the
+controlled variable sets in motion a response that reverses that change.
+
+- Steroid hormones :: Structurally related to /cholesterol/ (a /lipid/), and
+     therefore they are lipid-soluble. _Diffuses_ into the /target cells/.
+     Hormone-receptor complex attaches to /DNA/, activating specific genes, then
+     causing the formation of /messenger RNA/.
+- Nonsteroid hormones :: Structurally related to /proteins/; therefore, /lipid/
+     insoluble and cannot cross the /cell membrane/. _Bind to receptors_ on outer
+     surface of /target cell membranes/. Some cause ion channels in the /cell
+     membrane/ to open or close, _similar_ to the action of a /neurotransmitter/.
+- Second messenger :: Commonly, hormone-receptor binding converts an inactive
+     molecule within the cell into an active molecule. The activated molecule
+     generated with the cell is this /second messenger/.
+
+     A common second messenger is cyclic AMP, produced from ATP. Which then
+     activates an enzyme already present within the cell, which activates
+     another, which in turn activates another, and so on.
+
+     ATP \rightarrow Cyclic AMP (/second messenger/) \rightarrow Enzyme 1 activated
+     \rightarrow Enzyme 2 activated \rightarrow Enzyme 3 activated \rightarrow Final product alters cell
+     activity
+
+*** The hypothalamus and the pituitary gland
+- 13.3 goes into a lot of hormones we do not need to know at this time like
+  Pituitary Hormones
+- focus on FSH and LH in conjunction with testosterone and negative feedback
+
+Each anterior /pituitary hormone/ is produced and secrete by a separate cell type,
+and each hormone is regulated by a separate mechanism. /FSH/ and /LH/ stimulate the
+reproductive organs. They are called /gonadotropins/ because they stimulate the
+growth, development, and function of the reproductive organs in both males and
+females. In females, /FSH/ induces _egg development_, /LH/ promotes ovulation (egg
+release), and both hormones stimulate the secretion of the ovarian hormone
+/estrogen/. In addition, /LH/ stimulates the secretion of the ovarian hormone
+/progesterone/ after ovulation. In males, /FSH/ induces _sperm development_ and /LH/
+stimulates the production of the hormone /testosterone/ by the testes.
+\\
+\\
+*FSH {pituitary gland} \rightarrow SPERM/EGGS* \\
+*LH {pituitary gland} \rightarrow TESTOSTERONE/(OVULATION/PROGESTERONE)* \\
+
+- Hypothalamus :: Small region of the brain that serves as a homeostatic control
+     center.
+- Pituitary gland :: (master gland) {hypophysis} /Endocrine gland/ the size of a
+     pea and weighing 0.5 grams; protrusion off the _bottom_ of the /hypothalamus/
+     at the _base_ of the /brain/. /Hormones/ _secreted_ from the pituitary gland help
+     control: _growth_, _blood pressure_, certain functions of the _sex organs_,
+     _thyroid glands_, and _metabolism_, as well as some aspects of _pregnancy_,
+     _childbirth_, _nursing_, _water/salt_ concentration at the _kidneys_, _temperature
+     regulation_ and _pain relief_.
+- Follicle-stimulating hormone :: (FSH) {gonadotropin, glycoprotein polypeptide}
+     Synthesized and secreted by the anterior /pituitary gland/. Regulates the
+     _development_, _growth_, _pubertal maturation_, and _reproductive processes_ of the
+     body.
+- Luteinizing hormone :: (LH) {lutropin/lutrophin} Synthesized and secreted by
+     the anterior /pituitary gland/. In females triggers ovulation. In males
+     (where LH had also been called interstitial cell-stimulating hormone) it
+     stimulates Leydig cell production of /testosterone/.
+
+*** The pancreas secretes glucagon, insulin, and somatostatin
+[focus on insulin]
+
+/Endocrine cells/ of the /pancreas/ are located in small clusters scattered
+throughout the pancreas called the /islets of Langerhans/. Insulin lowers glucose
+levels by _facilitating /glucose/ uptake_ and _storage_.
+
+1. Alpha cells secrete /glucagon/.
+2. Beta cells secrete /insulin/, which _lowers blood sugar_. After a meal, /blood
+   glucose/ levels _rise_ as /sugars/ are _absorbed_ from the digestive tract. The _high_
+   glucose concentration _stimulates_ the /beta cells/ to _secrete_ /insulin/ into the
+   blood, where it does the opposite of glucagon. /Insulin/ promotes the _uptake_ of
+   /glucose/ by cells of the /liver/, /muscle/, and /fat tissue/. It also promotes the
+   conversion of /glucose/ _into_ /glycogen/ in the liver, both /glycogen/ and /proteins/
+   in muscle, and fats in /adipose tissue/.
+3. Delta cells secrete somatostatin.
+
+
+- Pancreas :: Both an /endocrine gland/ (secreting hormone into the blood) and an
+     /exocrine gland/ (secreting /enzymes/, /fluids/, and /ions/ into the /digestive
+     tract/ to aid in digestion).
+
+*** The adrenal glands comprise the cortex and medulla
+[skip]
+
+*** Thyroid and parathyroid glands
+[skip]
+
+*** Testes and ovaries produce sex hormones
+- focus on testes and ovaries
+
+The human /gonads/ are the /testes/ of males and /ovaries/ of females. Responsible for
+the _production_ of /sperm/ and /eggs/; both organs are also /endocrine glands/ in that
+they _produce_ the steroid /sex hormones/.
+
+*During puberty*: In males, the /anterior pituitary gland/ begins to release
+/luteinizing hormone/ (/LH/) which stimulates the testes to resume /testosterone/
+production. In females, the /anterior pituitary/ starts to release /luteinizing
+hormone/ (/LH/) and /follicle-stimulating hormone/ (/FSH/). These hormones stimulate
+the ovaries to begin secreting /estrogen/ and /progesterone/.
+
+[[file:book/screenshot_2016-11-10_22-49-30.png]]
+
+- Testes :: Located in the /scrotum/, produce /androgens/, the male /sex hormones/.
+- Ovaries :: Located in the abdomen, produces the female  sex hormones know
+     collectively as /estrogens/ (/17b-estradiol/, /estrone/, and /estriol/), and also
+     /progesterone/.
+
+*** Other glands and organs also secrete hormones
+[skip]
+
+*** Other chemical messengers
+[skip]
+
+*** Disorders of the endocrine system
+[skip]
+** Reproductive 
+- Epididymis
+- Vas deferens
+- Seminal Vesicles :: Secrete fructose to provide energy source.
+- Prostate :: Secretes alkaline fluid to neutralize vaginal acid for sperm passage.
+- Bulbourethral :: Secrete mucus into urethra to wash away acidic urine and
+     provide lubrication.
+- Penis :: Houses the urethra, the common route for both urine and sperm; male
+     sex organs.
+
+** Ch. 14
+- 14.1--14.7; particularly 14.1 and table 14.1
+- Read 14.8
+- How are macromolecules broken down, absorbed, and used?
+
+/The digestive system/ and its accessory organs _digest_ and _absorb_ nearly
+everything we eat and drink, regardless of how much we eat or drink. The stomach
+_stores ingested food_ and _water_ until it can be _delivered_ to the /small intestine/;
+also _secreting_ a _strong acid_ /hydrochloric acid/ (/HCL/) that breaks down proteins
+and most bacteria. Leftover non-absorbed waste products and bacteria are stored
+until they are eliminated as feces. Nutrients and water are absorbed in the
+small intestine (and lesserly to the large intestine). /Enzymes/ from the /pancreas/
+and the /small intestine/ _break down_ /carbohydrates/ and /fats/ to be absorbed. To
+maintain a constant body weight, energy intake must equal energy expenditure.
+
+In many ways the /digestive system/ is a highly efficient _disassembly line_, taking
+in food and processing it, breaking it into small pieces and digesting the
+fragments with /enzymes/ and /strong chemicals/.
+
+[[file:book/image777_2016-11-15_19-45-50.jpg]]
+
+[[file:book/digestive-system-aldy-organ-donation-project_2016-11-15_19-44-36.jpg]]
+
+- nutrients :: Substances in food that are required for growth, reproduction,
+     and the maintenance of health.
+- Salivary amylase :: Breaks down carbohydrates (generally polysaccharides which
+     are a monosaccharide and dissacharide units linked by glycosidic bonds.)
+
+*** The digestive system brings nutrients into the body
+
+The digestive system consist of organs and accessory organs that share the
+function of bringing nutrients into the body. The wall of the GI tract consists
+of four tissue layers: the /mucosa/, the /submucosa/, the /muscularis/, and the
+/serosa/. The five basic processes of digestion are:
+1. mechanical processing and movement (mechanical digestion)
+2. secretion
+3. digestion (chemical digestion)
+4. absorption
+5. elimination
+
+
+Accessory Organs
+- Don't directly contact food
+- Liver, Gallbladder, Pancreas, Salivary Glands
+
+From the /esophagus/ to the /anus/, the walls of the /GI tract/ _share_ common
+_structural features_ consisting of _four different layers_. Some of the organs of
+the GI tract are separated from each other by thick rings of circular smooth
+muscle called /sphincters/, which close off passageways between /organs/.
+
+- The digestive system :: All the organs that share the common function of
+     getting nutrients into the body. Including a series of hollow organs
+     extending from the /mouth/ to the /anus/: the /mouth/, /pharynx/, /esophagus/,
+     /stomach/, /small intestine/, /large intestine/, /rectum/, and /anus/.
+- Gastrointestinal tract :: (/GI tract/) The organs of the /digestive system/
+     creating a hollow tube through the body. The area through which food and
+     liquids travel---the space within the tube---is called the /lumen/.
+  - Mucosa :: (mucosal layer) Innermost tissue layer
+  - Submucosa :: Next to the /mucosa/ is a _layer of connective tissue_ containing
+       /blood vessels/, /lymph vessels/, and /nerves/, called the /submucosa/.
+  - Muscularis :: Third layer of GI tract tissue responsible for motility or
+       _movement_. Two r three sub-layers of /smooth muscle/.
+  - Serosa :: Outermost layer of the GI tract wall is a _thin connective tissue
+       sheath_ that _surrounds and protects_ the _other three layers_.
+
+
+Five basic processes which accomplish digestive system function:
+1. /Mechanical processing and movement/. Chewing breaks food into smaller pieces,
+   and two types of movement (motility) mix the contents of the /lumen/ and
+   propel it forward.
+2. /Secretion/. Fluid, digestive /enzymes/, _acid_, alkali, bile, and mucus are all
+   secreted into the GI tract at various places. In addition, several hormones
+   that regulate digestion are secreted into the bloodstream.
+3. /Digestion/. The contents of the /lumen/ are _broken down_ both _mechanically_ and
+   _chemically_ into _smaller and smaller particles_, culminating in /nutrient
+   molecules/.
+4. /Absorption/. /Nutrient molecules/ pass across the /mucosal layer/ of the /GI tract/
+   and into the /blood/ or /lymph/.
+5. /Elimination/. _Undigested material_ is _eliminated_ from the body _via_ the /anus/.
+
+
+The smooth muscle of the GI tract produces two kinds of motility, called
+/peristalsis/ and /segmentation/. /Peristaltic waves/ of contraction ripple through
+the organs of the /GI tract/, _mixing_ the contents of the /stomach/ and _pushing_ the
+contents of the /esophagus/ and /intestines/ forward. Peristalsis is mostly
+prevalent in the esophagus, where it transports food rapidly to the stomach.
+
+- Peristalsis :: Propels food forward. The lump of food (/bolus/) is _pushed down_
+     the /esophagus/ because of /smooth muscle/ _contracting before_ the /bolus/ and
+     _relaxing after_ the /bolus/ around the portion of /GI tract/ near the /bolus/.
+- Segmentation :: Mixes food. Short sections of /smooth muscle/ _contract_ and _relax_
+     in _seemingly random_ fashion. The result is a _back-and-forth mixing_ of the
+     contents of the /lumen/.
+
+**** Other
+- Small intestine :: _Digests_ /proteins/, /fats/, and /carbohydrates/. _Absorbs_ most of
+     the /water/ and /nutrients/. _Secretes_ digestive /hormones/ and /enzymes/.
+- Sigmoid colon :: Stores feces.
+- Rectum :: Passageway for feces.
+- Anus :: Expels undigested material.
+
+*** The mouth processes food for swallowing
+The four kinds of teeth (/molars/, /premolars/, /canines/, and /incisors/) _mechanically
+digest_ chunks of food. /Salivary glands/ _secrete_ /saliva/, which _moistens food_,
+begins the _chemical digestion_ of /carbohydrates/, _maintains_ the /pH/ of the /mouth/,
+and _protects_ the teeth _against_ /bacteria/.
+
+The mouth is the entrance to the /GI tract/. /Digestion/ begins in the /mouth/ with
+the _process of chewing_, which breaks food into _smaller and smaller_ chunks. The
+/mouth/ functions as an effective _food processor_. Chewing would be inefficient
+without the muscular tongue, which positions food over the teeth and mashes it
+against the roof of the mouth.
+
+- Mouth :: Teeth chew food. /Tongue/ _positions_ and _tastes_ foods.
+  1. *Molars (12)* flat surfaces well adapted to grinding and crushing 
+  2. *Premolars (8)* 
+  3. *Canines (4)* tear food
+  4. *Incisors (8)* sharp-edged cut food
+- Salivary glands :: (three pairs) Produce a watery fluid called /saliva/. Saliva
+     moistens food, making it easier to chew and swallow.
+
+*** The pharynx and esophagus deliver food to the stomach
+/Swallowing/ begins with _voluntary movements_ of the /tongue/; the presence of food
+_initiates_ an _involuntary swallowing reflex_. /Peristalsis/ and gravity _transfer_
+food through the /esophagus/ _to_ the /stomach/.
+
+_Voluntary movements_ of the /tongue/ and /jaws/ _push_ a /bolus/ of food into the
+/pharynx/, stimulating receptors that initiate the "swallowing reflex," an
+involuntary act that cannot be stopped once it is started. This _closes off_ the
+passageways for air by closing off the passageway into the /nasal cavity/ and
+bending the /epiglottis/ down to close the airway to the /trachea/, temporarily
+halting breathing.
+
+- Pharynx :: (throat) Tongue pushes food down this to swallow.
+- Esophagus :: Just beyond the /pharynx/ is the /esophagus/, a _muscular tube_
+     consisting of both /skeletal/ and /smooth muscle/ that _connects_ the /pharynx/
+     to the /stomach/.
+
+*** The stomach stores food, digests protein, and regulates delivery
+The /stomach/ _stores_ food, _digests_ it, and _regulates_ its delivery to the /small
+intestine/. /Gastric juice/ _dissolves_ /connective tissue/, large /proteins/, and
+_peptides_ in food. The presence of _food stretches_ the /stomach/ and _increases_
+/peristalsis/. /Peristaltic contractions/ _mix_ the /chyme/ and _push_ it gradually _into_
+the /small intestine/.
+
+The stomach is a muscular, expandable sac that performs the following three
+important functions
+1. *Food storage*. The /stomach/ _stores_ food until it can be digested and absorbed.
+   The /stomach/ _shrinks when empty_, and then _expands_ to 1--3 liters of capacity
+   _when eating_.
+2. *Digestion*. The /stomach/ _digests_ /proteins/, using strong /acid/, and
+   protein-digesting /enzymes/. The strong /acid/ also _kills most bacteria_. _Muscle
+   contractions mix_ the secretions (/acids/, /enzymes/) with food, assisting in
+   mechanically _breaking apart food particles_, and _push the mixture_ into the
+   /small intestine/.
+3. *Regulation of delivery*. The /stomach/ _regulates_ the _rate_ at which food is
+   _delivered_ to the /small intestine/.
+
+
+*Gastric Juice breaks down the proteins.* Some of the cells lining the glands in
+the lining of the stomach secrete either /hydrochloric acid/ (/HCL/) or /mucus/, but
+most secrete /pepsinogen/. Typically, the /stomach/ produces 1--2 liters of /gastric
+juice/ per day, most of it immediately after meals, making the /stomach pH/
+approximately 2.
+
+Some of the cells lining the /stomach/ and /gastric glands/ continuously _produce_ a
+_protective barrier_ of /mucus/, _preventing_ the /stomach/ from _digesting itself_.
+
+- Stomach ::  Muscular, expandable sac.
+- Pepsinogen :: /Pepsin's/ proenzyme released by the chief cells in the stomach
+     wall which activates in the presence of /hydrochloric acid/ of the /gastric
+     juice/.
+- Pepsin :: Becomes a protein-digesting /enzyme/ from /pepsinogen/ which is secreted
+     by the cells lining the /gastric glands/ after being exposed to /acid/ in the
+     /stomach/.
+- Chyme :: Watery mixture of _partially digested food_ and _gastric juice_ delivered
+     to the /small intestine/. The /pyloric sphincter/ between the /stomach/ and the
+     /small intestine/ regulates the rate of transport of /chyme/ into the /small
+     intestine/.
+  - Cardiac sphincter :: Prevents acid reflux into /esophagus/
+  - Pyloric shpincter :: Regulates passage of chyme to /small intestine/.
+- Peptic ulcer :: Open, (sometimes) bleeding _sore_ which occasionally occur in
+     the /esophagus/ and upper part of the /small intestine/ as well.
+
+
+*Stomach contractions mix food and push it forward*. While _empty_, the /stomach's/
+_muscle contractions_ keep it _small_. When eating, the _muscle contractions cease_
+and /stomach/ _relaxes_, _signaling_ /peristalsis/ to _increase_. /Chyme/ with a _high acid_
+or _fat_ content _stimulates_ the _release_ of /hormones/ that _slow_ /stomach peristalsis/.
+
+*** The small intestine digests food and absorbs nutrients and water
+The /small intestine/ has two major functions: 1) _digesting_ /proteins/,
+/carbohydrates/, and /lipids/, and 2) _absorbing_ approximately _90%_ of the /nutrients/
+and /water/ we consume. Projections called /villi/ in the /mucosa/ _increase_ the /small
+intestine's/ _surface area_ for absorption.
+
+The process of _digestion continues_ in the /small intestine/. It has two major
+functions:
+1. /Digestion/. The /stomach/ partially _digests_ /proteins/ to smaller /peptides/, under
+   the _influence of_ strong /acids/ and /pepsin/. /Protein/ _digestion continues_ in the
+   /small intestine/, but also _digests_ /carbohydrates/ and /lipids/. Digestion of
+   /protein/, /carbohydrates/, and /lipids/ in the /small intestine/ involves
+   _neutralizing_ the highly acidic /gastric juice/ and _adding_ additional digestive
+   /enzymes/ from the /intestine/ and /pancreas/.
+2. /Absorption/. Eventually, the /proteins/, /carbon/, and /lipids/ in food are _broken
+   down_ to single /amino acids/, /monosaccharides/, /fatty acids/, and /glycerol/, which
+   are small enough to be _transported_ (i.e. NOT DIFFUSED) across mucosal cells
+   into the blood. Nearly 90% of the /nutrients/ able to be absorbed and /water/ is
+   _absorbed in_ the /small intestine/.
+
+
+The /small intestine/ consists of three different regions. The /duodenum/, the
+/jejunum/, the /ileum/.
+
+- Duodenum :: About _10 inches long_. Most of the /digestion/ _takes place_ here. The
+     /products of digestion/ are _absorbed_ primarily in the _other two segments_, the
+     /jejunum/ and the /ileum/, which together are about _10 feet long_.
+- Peptide :: Basically just small /proteins/.
+- Villus :: (plural: *villi*) The mucosa contains large folds covered with
+     _microscopic projections_ called /villi/, which each /epithelial cell/ of the
+     /villi/ has _dozens_ of even _smaller_, /cytoplasmic projections/ called
+     /microvilli/. The folds increase the surface area for absorption.
+
+*** Accessory organs aid digestion and absorption
+The /pancreas/ _secretes_ /digestive enzymes/ and /sodium bicarbonate/. The /sodium
+bicarbonate/ _neutralizes_ /stomach acid/, making the /digestive enzymes/ _more
+effective_. The /liver/ _produces_ /bile/, which is _stored_ in the /gallbladder/ until
+after a meal. The /liver/ also _produces_ /plasma proteins/; _inactivates_ /toxic
+chemicals/; _destroys_ old /red blood cells/; _stores_ /vitamins/, /iron/, and certain
+products of /metabolism/; and performs _other functions_ important for /homeostasis/.
+
+The /digestive system/ has four /accessory organs/: /salivary glands/, /pancreas/,
+/gallbladder/, and /liver/.
+
+*The pancreas secretes enzymes and NaHCO_{3}*. The exocrine products of the
+pancreas are:
+1. /Sodium bicarbonate/. Except for /pepsin/, most /digestion enzymes/ work _best_ at a
+   fairly _neutral /pH/_. /sodium bicarbonate/ from the /pancreas/ neutralizes the
+   /stomach acid/ in the /small intestine/ so that further digestion can proceed.
+2. /Digestive enzymes/
+   - /proteases/ :: Enzymes that digest proteins.
+   - /pancreatic amylase/ :: Continues the digestion of carbohydrates only
+        partially accomlished by salivary amylase.
+   - /lipase/ :: /Lipid-digesting enzyme/. The /small intestine/ does not have lipase,
+        so the this _/pancreas/ product_ is important.
+
+The /liver/ serves a number of functions that _maintain_ /homeostasis/:
+- Storing fat-soluble vitamins (A, D, E, and K) and iron.
+- Storing glucose as glycogen after a meal, and converting glycogen to glucose
+  between meals.
+- Manufacturing plasma proteins, such as /albumin/ and /fibrinogen/, from /amino
+  acids/.
+- Synthesizing and storing some lipids.
+- Inactivating many chemicals, including /alcohol/, /hormones/, /drugs/, and /poisons/.
+- Converting /ammonia/ (/NH_{3}/), a toxic waste product of metabolism, into less
+  toxic /urea/.
+- Destroying worn-out red blood cells
+ 
+/Liver/ injury can be particularly dangerous. Overexposure to /toxic chemicals/,
+/medications/, or /alcohol/ _can damage_ the /liver/ because it takes up these
+substances to "detoxify" them, _killing_ some /liver cells/ in the process.
+Long-term exposure _can destroy_ enough /cells/ to _permanently impair_ /liver/
+function, a condition known as /cirrhosis/.
+
+
+- Pancreas :: Elongated organ which lies just behind the stomach. Secretes
+     digestive /enzymes/ (/proteases/, /amylase/, /lipase/) into /small intestine/; most
+     of the enzymes involved in digestion come from the pancreas (the small
+     intestine contributes only a limited amount of protein- and
+     carbohydrate-digesting enzymes). Secretes /sodium bicarbonate/ into /small
+     intestine/ to _neutralize_ /stomach acid/. _Delivers_ /enzymes/ and /sodium
+     bicarbonte/ to the /duodenum/ _via_ /ducts/. The most important hormones it
+     secretes into the blood are /insulin/ and /glucagon/.
+
+     The /pancreas/ is also an /exocrine gland/ that _produces_ and _secretes_ several
+     products directly into /ducts/ _leading to_ the /digestive tract/.
+- Sodium Bicarbonate ::  (Baking Soda) Natural substance in the body within the
+     bloodstream that _regulates_ /pH/ as a counterbalance to acid build up. Also a
+     first line of defense for a vast range of sickness like cancer, flu,
+     diabetes, kidney disease, and the common cold.
+- Liver :: Upper-right /abdominal cavity/. Produces /bile/ (/water/ and /electrolytes/,
+     /cholesterol/, /bile salts/, /lecithin/, and /pigments/). Performs various
+     functions associated with _processing_ and _storing_ /nutrients/.
+- Bile :: Watery mixture containing /electrolytes/, /cholesterol/, /bile salts/
+     _derived from_ /cholesterol/, a /phospholipid/ called /lecithin/, and /pigments/
+     (primarily /bilirubin/) _derived from_ the breakdown of /hemoglobin/.
+- Hepatic portal system :: Generally, a /portal system/ _carries_ /blood/ from one
+     /capillary bed/ to another. Here, the hepatic portal system carries
+     nutrient-rich blood directly from the digestive organs to the liver via the
+     hepatic portal vein.
+- Gallbladder :: /Bile/ produced by the /liver/ flows through /ducts/ to the
+     /gallbladder/. _Stores_ and _concentrates_ /bile/. Delivers bile to the /duodenum/
+     via the common /bile duct/. Concentrates /bile/ by _removing_ most of the /water/,
+     then _stores_ the /concentrated bile/ until it is needed.
+
+*** The large intestine  absorbs nutrients and eliminates wastes
+
+- Large intestine ::
+- Appendix ::
+- Colon ::
+
+*** How nutrients are absorbed
+** Ch. 15
+- Sections 15.1 to 15.4, 15.8 (page 356--364, 371--373 in 7^{th} ed.)
+- Figure 15.1 and figure 15.6
+- *Note*: You do NOT need to memorize blood vessels supplying the kidneys---focus
+  on the _nephrons_ and where/how _filtration_, _reabsorption_ and _secretion_ take
+  place.
+- Overarching goal: Explain the role of the urinary system (_*especially
+  kidneys*_) in maintaining homeostasis.
+
+[[file:Ch. 15/screenshot_2016-11-15_19-11-15.png]]
+
+*** The urinary system contributes to homeostasis
+*Organ systems involved in removing wastes and _maintaining homeostasis_ of /water/
+and /solutes/.* The /kidneys/ of the /urinary system/ are the organs primarily
+responsible for the _mainenance of homeostasis_ of water and solutes and for the
+excretion of most waste products.
+
+*Table 15.1* 
+|----------------------+-------+--------------------------+-------|
+| Water gain (ml/day)  |       | Water loss (ml/day)      |       |
+|----------------------+-------+--------------------------+-------|
+| /                    | >     |                          |     > |
+| Drinking fluids      | 1,000 | Urine                    | 1,500 |
+| Water in food        | 1,200 | Evaporative loss (lungs) |   500 |
+| Metabolic Production | 300   | Evaporative loss (skin)  |   350 |
+|                      |       | Feces                    |   150 |
+|----------------------+-------+--------------------------+-------|
+| Total                | 2,500 | Total                    | 2,500 |
+|----------------------+-------+--------------------------+-------|
+
+
+The /urinary system/ maintains a constant internal environment by _regulating_ /water
+balance/ and body levels of /nitrogenous wastes/, /ions/, and other substances. It
+_filters_ metabolic wastes from the /blood/ and /excretes/ them in /urine/. The major
+/nitrogenous waste/ product is /urea/.
+
+- The digestive system + nutrients + water \rightarrow food residues
+- Lungs + O_{2} \rightarrow carbon dioxide gas
+- Skin + heat \rightarrow water + salt
+- liver + numerous inactivate-able substances \rightarrow (sometimes) bile in feces
+
+
+*The kidneys regulate water levels*. The kidneys have a tremendous capacity to
+adjust water excretion as necessary, from a minimum of about 1/2 liter per day
+to nearly 1 liter per hour.
+
+*The kidneys regulate nitrogenous wastes and other solutes*. The primary solutes
+excreted by the /kidneys/ are /nitrogenous wastes/, excess ions, and trace amounts
+of other substances. The normal _metabolism of proteins_ leaves us with _excess_
+/nitrogenous wastes/, which must be /_excreted_/ by the /kidneys/.
+
++ It _regulates_ /urinary excretion/ of these /ions/:
+  - NA^{+} and CL^{-} :: determine the volume of the extracellular fluids,
+       including blood.
+  - K^{+} :: Maintains electrical charges
+  - CA^{2+} :: Important in nerve and muscle activity
+  - H^{+} :: Maintains acid--base balance.
+  - Creatinine :: Produced during metabolism of creatine phosphate which gives
+       urine its yellow color
+
+
+- Excretion :: Process that _removes wastes_ and excess materials from the body.
+- Urinary system :: Consists of the two /kidneys/, the /ureters/, the /bladder/, and
+     the /urethra/.
+- Kidney :: Two /kidneys/ _produce urine_. carefully _regulate_ how much _water_ and
+     _salt_ (/ions/) are /excreted/ in order to _maintain homeostasis_ of fluid volume
+     and blood pressure. Retain within the body all three classes of /nutrients/
+     (/carbohydrates/, /lipids/, and /proteins/)
+  - Bowman's capsule :: Cup underneath the glomerulus which catches the
+       filtrate(is this the right word?).
+  - Bowman's space :: Space inside Bowman's capsule.
+  - Endothelial cells :: (Renestrated, or has a lot of holes/pores)
+  - Basement membrane :: membrane underneath the endothelial cells.
+  - Tubular cells :: (epithelial cell) Action point at the end of Bowman's
+       capsule.
+- Urine :: Waste water and waste solutes (various ions, drugs, vitamins, toxic
+     chemicals, virtually every small waste molecule produced anywhere in the
+     body).
+- Urea :: (H_{2}N--CO--NH_{2}). Created with water from ammonia molecules (which are
+     toxic to cells) and carbon dioxide.
+- Ammonia :: (NH_{4}^{+})
+- Diuretics :: (called water pills) Any substance which promotes an increased
+     production of urine. Treat a variety of conditions, such as high /blood
+     pressure/, /glaucoma/, and /edema/. Help rid the body of salt (sodium) and
+     water. /Kidneys/ release more sodium into /urine/.
+- Persistent proteinuria :: Urine has proteins in it which are not supposed to
+     be in urine. This might happen in somebody with /kidney disease/---as it is
+     the job of the kidney not to put proteins in the urine.
+
+*** Organs of the urinary system
+Organs of the /urinary system/ include the /kidneys/, /ureters/, /bladder/, and /urethra/.
+The /kidneys/ are the principal urinary organs, although they have several
+_homeostatic functions_ as well. The /ureters/ transport /urine/ to the /bladder/, where
+it is stored until carried by the /urethra/ to the body's eternal opening.
+
+| Organ           |   | Function                                                   |
+|-----------------+---+------------------------------------------------------------|
+| /               | < |                                                            |
+| Kidneys         |   | Excrete metabolic wastes, especially urea                  |
+|                 |   | Maintain water and salt homeostasis                        |
+|                 |   | Help regulate acid--base balance                           |
+|                 |   | Help regulate blood pressure (produce renin, an enzyme)    |
+|                 |   | Control RBC production (produce erythropoietin, a hormone) |
+|                 |   | Activate vitamin D                                         |
+|-----------------+---+------------------------------------------------------------|
+| Ureters         |   | Transport urine to bladder                                 |
+|-----------------+---+------------------------------------------------------------|
+| Urinary bladder |   | Stores urine until excretion                               |
+|-----------------+---+------------------------------------------------------------|
+| Urethra         |   | Transports urine to outside the body                       |
+
+*Kidneys: the principal urinary organs*
+
+The /kidneys/ are located on either side of the _vertebral column_, near the
+_posterior body wall_. A /renal artery/ and a /renal vein/ connect each kidney to the
+aorta and inferior vena cava, respectively.
+
+*Ureters transport urine to the bladder*
+
+*Urinary bladder stores urine*
+
+Consists of three layers of /smooth muscle/ lined on the inside by /epithelial
+cells/. Typically holds about 600--1,000 ml of /urine/.
+
+- Medulla ::
+- Cortex ::
+- Renal pelvis ::
+- Ureter :: Muscular tube that transports urine to the bladder. About 10--15
+     seconds a peristaltic wave of smooth muscle contraction occurs pushing
+     urine from the 10-inch length of the /ureters/ to the /bladder/.
+- Urethra :: During urination, /urine/ passes through /this/, a single, muscular
+     tube extending from the /bladder/ to the body's external opening.
+
+*** Nephrons produce urine
+- Yeah, so I really doubt that most of the big words in the this section are
+  actually going to be useful. Basically, there are nephrons in the kidney that
+  pull blood into the kidney where the nephron then takes out a tiny piece of
+  garbage and inserts it into the collecting duct with some water, calling it
+  urine.
+
+A nephron is the function unit of a kidney. A nephron tubule consists of a
+glomerular capsule, where fluid is filtered, and four reguions in which the
+filtrate is modified before it becomes urine: proximal tubule, loop of Henle,
+distal tubule, and collecting duct. Blood flows to the glomerulus via the renal
+artery and afferent arteriols. Peritubuluar capillaries carry the blood to the
+proximal and distal tubules, and vasa recta supply the loops of Henle and
+collecting ducts.
+
+Each kidney contains approximately a million small functional units called
+/nephrons/. An individual /nephron/ consists of a thin, hollow tube of /epithelial
+cells/, called a /tubule/, plus the /blood vessels/ that supply the /tubule/.
+
+- Nephron ::
+- Glomerular capsule ::
+- Glomerulus ::
+- Proximal tubule ::
+- Loop of Henle ::
+
+*** Formation of urine: Filtration, reabsorption, and secretion
+- In the first part, proteins are separated from the solutes and water; solutes
+  and water placed into tubule. Most of what is extracted is then
+  reabsorbed---nearly all the filtered water and sodium and all the major
+  nutrients. In the third part, the waste products are placed into the tubule to
+  be secreted as urine.
+
+[[file:Ch. 15/figure_25_09_labeled_2016-11-16_20-43-29.jpg]]
+
+*Figure 15.6* The three processes that contribute to the formation of urine.
+1. *Glomerular filtration* The movement of a /protein/-free solution of fluid and
+   solutes from the /glomerulus/ into the space within the /glomerular
+   capsule/. Water, ions, glucose, amino acids, bicarbonate, and waste products
+   (urea, creatinine) are _filtered_ from the /glomerular capillaries/ into the
+   space within the /glomerular capsule/.
+2. *Tubular reabsorption* The return of most of the fluid and solutes back into
+   the /peritubular capillaries/ or /vasa recta/. Water, amino acids, glucose, most
+   ions (including bicarbonate), and some urea are _reabsorbed_ back into the
+   /peritubular capillaries/, primarily in the /proximal tubule/ but also in other
+   /nephron/ segments.
+3. *Tubular secretion* The addition of certain solutes from the /peritubular
+   capillaries/ or /vasa recta/ into the tubule. Some drugs, waste products, and
+   ions (primarily hydrogen, ammonium, and potassium) are /actively secreted/ from
+   the /peritubular capillaries/ primarily into the /distal tubule/ but also in
+   other /nephron/ segments.
+
+
+- /Efferent/ arterial is much _narrower_ than the /afferent/ arterial, and the
+  /efferent/ arterial has pretty _high pressure_. The kidneys thus do _not need_ to
+  use any _energy_ in the _/filtration/ process_ because diffusion is so easy.
+
+*The rate of filtration is regulated in two ways*:
+- Under _resting conditions_, pressure-sensitive cells in the /arterioles/ and
+  flow-sensitive cells in the /tubule/ walls can _release chemicals_ to _adjust the
+  diameter_ of the /afferent arterioles/. These feedback mechanisms maintain a
+  relatively constant rate of /glomerular filtration/, allowing the kidneys to
+  carry out their regulatory functions.
+- During times of stress (such as after an injury or while running a marathon),
+  _blood flow_ to the /kidneys/ _falls_ substantially as blood is redistributed to
+  more critical organs. The /sympathetic/ division of the /autonomic nervous system/
+  constricts /afferent/ and /efferent/ /arterioles/, reducing blood flow and the rates
+  of /glomerular filtration/ and urine formation. The /kidneys/ are unharmed because
+  they do not need a high blood flow to survive, and the body can cut back on
+  urine production temporarily without ill effects.
+*** Disorders of the urinary system
+** Ch. 16
+- Oxytocin :: [hormone, neuropeptide, medication] Normally produced in the
+     hypothalamus and released by the posterior pituitary. Plays a role in
+     social bonding, sexual reproduction in both sexes, and during and after
+     childbirth.
+
+*** The male reproductive system delivers sperm
+The male reproductive system comprises the /testes/, the /penis/, and associated
+ducts and glands. /Semen/ consists of /sperm/ and three glandular secretions that
+provide energy and the proper pH environment for the /sperm/ and also lubrication
+for sexual intercourse. Millions of /sperm/ form every day throughout a man's
+life; a typical ejaculate contains up to 300 million /sperm/. /Testosterone/
+stimulates the growth and function of the male reproductive system, and
+encourages aggressive and sexual behavior. Blood level of /testosterone/ are
+regulated by a /negative feedback loop/ involving /GnRH/ from the /hypothalamus/ and
+/LH/ and /FSH/ from the /anterior pituitary/.
+
+- Sperm :: 
+- Egg ::
+- Testes :: 
+- Scrotum :: 
+
+
+Each testis is only about 2 inches long, but it contains over 100 yards of
+tightly packed /seminiferous tubules/. Seminiferous tubules join to become the
+/epididymis/.
+
+- Seminiferous tubules :: Site of sperm production.
+- Epididymis :: Tube that connects a /testicle/ to a /vas deferens/.
+- Ductus (vas) deferens :: 
+- Ejaculatory duct :: 
+
+- Penis ::
+- Erection ::
+- Semen :: 
+
+The entire process of sperm formation and maturation takes about 9--10 weeks.
+
+- Seminal vesicles :: Produce seminal fluid, a watery mixture containing
+     fructose and prostaglandins that represents about 60% of the volume of
+     semen.
+- Prostate gland ::
+- Bulbourethral glands ::
+- Gametes :: Cells having only 23 chromosomes. Female gametes are called
+     /oocytes/.
+- Sertoli cells :: Large cells which nourish spermatogonia which are to begin
+     sperm.
+
+- Testosterone ::
+- Gonadotropin-releasing hormone :: (GnRH)
+- Luteinizing hormone :: (LH)
+- Inhibin :: Highly active sertoli cells secrete a hormone called inhibin that
+     directly inhibits the secretion of FSH.
+
+*** The female reproductive system produces eggs and supports pregnancy
+The /ovaries/ secrete /estrogen/ and /progesterone/, store immature /oocytes/, and
+(usually) release one /oocyte/ at a time at intervals of about 28 days. The /oocyte/
+travels through the /oviduct/ to the /uterus/, where implantation occurs if the egg
+has been fertilized. The /vagina/ is the female organ of sexual intercourse and
+the birth canal; around its opening are the structures of the /vulva/. /Mammary
+glands/ are accessory organs that produce and store milk.
+
+- Oviduct :: The tube through which an /ovum/ or egg passes from an /ovary/. In
+     female mammals this passageway is know as the /uterine tube/ or /Fallopian
+     tube/.
+- Ovaries ::
+- Estrogen ::
+- Progesterone ::
+- Oviduct ::
+
+- Uterus ::
+- Endometrium ::
+- Cervix ::
+- Vagina ::
+- Labia majora :: Two prominent longitudinal cutaneous folds that extend
+     downward.
+- Labia minora :: (inner labia) Folds of skin in the very middle of /vulva/
+     between thicker /labia majora/.
+- Clitoris ::
+
+- Mammary glands :: Accessory organs that produce and store milk.
+- Lactation :: 
+
+*** Menstrual cycle consists of ovarian and uterine cycles
+During the /ovarian cycle/, a primary /oocyte/ within a developing /follicle/ divides
+once to form a secondary /oocyte/. The /follicle/ ruptures, releases the /oocyte/, and
+forms the /corpus luteum/ that secretes /progesterone/ and /estrogen/. Rising levels
+of /estrogen/ cause the /endometrium/ to proliferate. If pregnancy does not occur,
+hormone levels fall and the /endometrial layer/ disintegrates and is shed, a
+process known as /menstruation/. /Ovulation/ is triggered by a surge of /LH/, which in
+turn is caused by the /positive feedback/ effect of a high concentration of
+/estrogen/ from the maturing /follicle/. During the second half of the /menstrual
+cycle/, sustained high levels of /estrogen/ and /progesterone/ from the /corpus luteum/
+inhibit further /ovulation/.
+
+- Menstrual cycle ::
+- Ovarian cycle :: 
+- Follicle ::
+- Ovulation ::
+- Corpus luteum ::
+- Menstruation :: 
+
+*** Human sexual response, intercourse, and fertilization
+Women and men experience the same four phases of sexual responsiveness. Sexual
+arousal in the male results in penile erection that leads to orgasm and
+ejaculation. Females experience sexual arousal and pleasurable orgasms marked by
+rhythmic muscular contractions. During ejaculation, the male deposits several
+hundred million sperm in the vagina. Fertilization of the egg by a single sperm
+occurs within five days, if it occurs at all.
+
+- Orgasm ::
+- Ejaculation :: 
+
+*** Birth control methods: Controlling fertility
+Surgical sterilization should be considered a permanent method of birth control.
+Hormonal methods---pills, injections, patches, and rings---are also relatively
+effective but can have side effects. Physical barriers (diaphragms, cervical
+caps, and condoms) and chemical spermicides are moderately effective; a few
+afford some protection against diseases. IUDs are fairly effective against
+pregnancy but do not protect against diseases. Withdrawal and periodic
+abstinence are not effective forms of birth control in the long term. Abortion
+is an elective but controversial procedure that terminates a pregnancy.
+
+*** Infertility: Inability to conceive
+Male infertility is an insufficiency or lack of sperm. Causes of female
+infertility are variable and include failure to ovulate, damage to oviducts,
+pelvic inflammatory disease, secretions that impair sperm function, uterine
+tumors, endometriosis, age-related changes, and miscarriages. The choice of
+options to improve fertility depends on the cause of the infertility. Options
+include artificial insemination, in vitro fertilization, gamete intrafallopian
+transfer, zygote intrafallopian transfer, fertility-enhancing drugs, and
+surrogate motherhood.
+
+*** Sexually transmitted diseases
+Major bacterial STDs include gonorrhea, syphilis, and chlamydia. The most
+dangerous viral STD is HIV. Hepatitis BUT can be prevented by a vaccine. Genital
+herpes is irritating but not particularly deadly. HPV can cause warts and is a
+risk factor for cervical cancer---it, to, can be prevented by a vaccine. Yeast,
+normally present in the vagina, can multiply and cause a yeast infection. Pubic
+lice are tiny arthropods that are transmitted during intimate contact or by
+contact with clothes or bedding. You can reduce your risk of contracting an STD
+with a little effort. Choose your partner wisely, use a barrier method of birth
+control, and , if you suspect you have a disease, get tested promptly.
+
+** Ch. 8
+   - Cardiovascular system :: Provides the power to move the blood, and the
+        vascular system represents the network of branching conduit vessels
+        through which the blood flows.
+     - Greek /kardia/, hear Latin /vasculum/ small vessel
+
+*** Blood vessels transport blood
+A branching system of thick-walled /arteries/ _distributes blood_ to every area of
+the body. /Arterioles/ _regulate blood flow_ to local regions, and precapillary
+sphincters/ _regulate flow_ into individual /capillaries/. Capillaries/ consisting
+of a single layer of cells exchange materials with the /interstitial fluid/. The
+/lymphatic system/ _removes excess fluid_. The thin-walled /veins/ _return blood_ to the
+heart and serve as a volume reservoir for blood.
+
+A branching network of blood vessels transports blood to all parts of the body.
+The network is so extensive that if our blood vessels were laid end to end, they
+would stretch 60,000 miles!
+
+There are three major types of blood vessels: /arteries/, /capillaries/, and /veins/.
+Thick-walled arteries transport blood to body tissues under high pressure. As
+blood leaves the heart it is pumped into the large, muscular arteries.
+
+- Arteries :: Transport blood away from the heart. Larger arteries have a thick
+     muscle layer because they need to withstand high pressure from the heart.
+
+     The vessel is a sandwich of three distinct layers surrounding the /lumen/, or
+     hollow interior of the vessel:
+  1. /endothelium/.
+  2. Largest layer of _smooth muscle_ with interwoven elastic _connective tissue_.
+  3. Outermost layer of large and medium-sized arteries have a tough supportive
+     layer of _connective tissue_, primarily collagen.
+
+- Aneurysm :: [ballooning of the artery wall] The /endothelium/ becomes damaged,
+     blood seeps through the injured area and the two outer layer, splitting
+     them apart.
+- Endothelium :: /Squamous/ /epithelial cells/ in a thin, flattened layer. A
+     _continuation of_ the lining of the _heart_.
+- Capillary :: /Epithelial cells/ of capillary /endothelium/.
+
+*** Arterioles and precapillary sphincters regulate blood flow
+    Eventually blood reaches the _smallest_ arteries, or /arterioles/.
+
+    - Precapillary sphincter :: Smooth muscle that serves as gates for
+         controlling blood flow into individual capillaries.
+      - Vasoconstriction :: /Arterioles/ and /precapillary sphincters/ reduce
+           diameter \rightarrow reduces blood flow.
+      - Vasodilation :: /Arterioles/ and /precapillary sphincters/ increase diameter
+           \rightarrow increase blood flow.
+    - Arterioles :: Little /arteries/. Simpler in structure than arteries because
+         they don't need to support as much pressure as arteries do. The
+         diameter is control by /smooth muscle/ control, the /precapillary
+         sphincters/.
+
+*** Capillaries: Where blood exchanges substances with tissues
+Porous walls allow blood to _exchange_ /oxygen/, /carbon dioxide/, /nutrients/, and
+waste/ products with /tissue cells/.
+
+[[file:Ch. 8/slide_19_2016-10-25_22-44-43.jpg]]
+    
+- Capillaries :: Thin-walled vessels about as think as the /red blood cells/
+     that travel through them. Biological strainers that permit selective
+     _exchange_ of substances with the /interstitial fluid/.
+- Capillary beds :: Found in all areas of the body. Capillary walls consist
+     of a single layer of /squamous epithelial cells/.
+
+*** Lymphatic system helps maintain blood volume
+    The /lymphatic system/ is somewhat similar to the venous system of blood
+    vessels, except that the fluid it contains /lymph/ does _not_ contain /plasma
+    proteins/ or /red blood cells/.
+
+    - Lymphatic system :: Collection system of larger vessels where excess
+         plasma fluid is absorbed by blind-ended capillaries.
+
+*** Veins return blood to the heart
+    Blood flows back to the heart through /venules/ (small veins) and /veins/. Has
+    _three layers_ similar to /arteries/, but much _thinner_. Veins have a _larger_
+    /_lumen_/, however.
+
+    Pressure goes down as it moves through the cardiovascular system, so veins
+    require only a small fraction of the pressure in arteries. Veins accommodate
+    _large volumes_ of blood at _low pressures_.
+
+    Most veins contain valves consisting of small folds of the inner layer that
+    protrude into the lumen; permitting only one-way flow.
+
+    - Veins :: Carries blood to the heart.
+
+         Blood pools into your legs and feet when standing upright. People who
+         spend a lot of time on their feet may develop /varicose veins/.
+
+    - Vericose veins :: Permanently swollen veins that look twisted and bumpy
+         from pooled blood.
+
+*** The heart pumps blood through the vessels
+The heart wall consists of _three layers_: the /epicardium/, the /myocardium/, and
+the /endocardium/. The heart contains _four chambers_ and _four one-way valves_.
+The /right atrium/ and /right ventricle/ pump blood _to_ the /lungs/; the /left
+atrium/ and /left ventricle/ pump blood _to_ the rest of the /body/. Each /cardiac
+cycle/ is a repetitive sequence of contraction (/systole/) and relaxation
+(/diastole/).
+
+The /heart/ is located in the /thoracic cavity/ _between_ the /lungs/ and behind the
+sternum/, or breastbone. It consists mostly of /cardiac muscles/.
+
+- Cardiac muscle :: Doesn't connect to bone. _Pumps_ ceaselessly in a
+     squeezing motion to _propel blood_ through the /blood vessels/.
+- Pericardium :: Tough, fibrous sac. _Protects_ the /heart/, _anchors_ it to
+     surrounding structures, and _prevents_ it from _overfilling_ with blood.
+- Pericardial cavity :: Contains a film of lubricating fluid that reduces
+     friction and allows the /heart/ and the /pericardium/ to glide smoothly
+     against each other when the heart contracts.
+
+There are three layers in the walls of the heart.
+
+    
+    [[file:Ch. 8/The-pericardial-layers-and-layers-of-the-heart-wall_2016-10-25_22-42-22.jpg]]
+
+- Epicardium :: Outermost layer consisting of a _thin layer_ of /epithelial/ and
+     /connective tissue/.
+- Myocardium :: Middle layer consisting mainly of /cardiac muscle/ that forms
+     the bulk of the heart. The layer that _contracts_ every time the heart
+     beats.
+- Endocardium :: Innermost, thin /endothelial/ layer resting on a layer of
+     /connective tissue/. Continuous with the /endothelium/ that lines the blood
+     vessels.
+
+Problems*
+
+- Pericarditis :: Inflammation of the /pericardium/.
+
+*** The heart has four chambers and four valves
+    /Blood/ _returning_ to the /heart/ from the body's tissues _enters_ the heart at the
+    /right atrium/. From the right atrium, the blood passes through a valve _into_
+    the /right ventricle/. The right ventricle is more muscular than the right
+    atrium because it pumps blood at considerable pressure through a second
+    valve and _into_ the /artery/ leading _to_ the /lungs/.
+
+    /Blood/ _returning from_ the /lungs/ _to_ the /heart/ _enters_ the /left atrium/, then
+    passes through a third valve _into_ the /left ventricle/. The very muscular left
+    ventricle pumps blood through a fourth valve _into_ the body's _largest_ /artery/,
+    the /aorta/.
+
+    [[file:Ch. 8/13453870-Schematic-representation-of-the-human-circulatory-system-Poster-Stock-Vector_2016-10-25_23-00-21.jpg]]
+
+    - Atria :: [two atria, each an atrium] Each goes to the corresponding
+         ventricle. Body attaches to the right atrium. Lungs attach to the left
+         atrium.
+    - Ventricles :: [two ventricles] Left ventricle goes to the body. Right
+         ventricle goes to the lungs.
+    - Septum :: Muscular partition separating the right and left sides of the
+         heart.
+    - Atrioventricular (AV) valves :: Between the corresponding /atrium/ and
+         /ventricle/ is an /atrioventricular valve/ which _prevents_ the _backwards
+         flow_ of /blood/ in the /heart/.
+    - Semilunar valves :: [two, pulmonary and aortic] Prevent backflow into the
+         ventricles from the main arteries leaving the heart when the heart
+         relaxes.
+
+*** The pulmonary circuit provides for gas exchange and the systemic circuit serves the rest of the body
+    - Pulmonary circuit :: The circuit where blood travels to and from the
+         lungs.
+    - Systemic circuit :: The circuit where blood travels to and from the
+         body.
+    - Coronary arteries :: _Supply_ the /heart muscle/ with /blood/. They branch from
+         the /aorta/ just above the /aortic semi-lunar valve/ and _encircle_ the
+         /heart's/ surface.
+      - Latin /corona/ encircling like a crown
+    - Cardiac veins :: _Collect_ the /blood/ _from_ the /capillaries/ _in_ the /heart
+         muscle/ and channel it back _to_ the /right atrium/.
+
+*** The cardiac cycle: The heart contracts and relaxes
+    A complete /cardiac cycle/ involves _contraction_ of the two /atria/, which forces
+    /blood/ _into_ the /ventricles/, followed by _contraction_ of the two /ventricles/,
+    which pumps blood _into_ the /pulmonary artery/ and the /aorta/, followed by a
+    _relaxation_ of the entire /heart/.
+
+    [[file:Ch. 8/figure-40-03-03_2016-10-25_23-21-01.jpeg]]
+
+    - Systole :: The period of contraction.
+    - Diastole :: The period of relaxation.
+    - Cardiac cycle :: The entire sequence of contraction and relaxation.
+      1. /Atrial systole/. _Contraction_ starts, the heart is _already_ nearly filled
+         with /blood/ that _entered_ the /ventricles/ and /atria/ passively during the
+         previous /diastole/. During /atrial systole/, both /atria/ _contract_, raising
+         blood pressure in the /atria/, then _filling_ the two /ventricles/ to
+         capacity.
+      2. /Ventricular systole/. _Contraction_ that began in the /atria/ spreads to the
+         /ventricles/, then both /ventricles/ _contract_ simultaneously. /Pulmonary/ and
+         /Aortic semilunar valves/ _open_ and /blood/ is _ejected_ into the /pulmonary
+         trunk/ and the /aorta/.
+      3. /Diastole/. Both /atria/ and both /ventricles/ are _relaxed_. Pressure within
+         falls, the /pulmonary/ and /aortic semilunar valves/ _close_, _preventing
+         backflow_, then the /AV valves/ _open_ and blood begins to _flow_ passively
+         _into_ the /heart/.
+
+*** Cardiac conduction system coordinates contraction
+    The coordinated sequence of the cardiac cycle is due to the /cardiac
+    conduction system/ a group of specialized /cardiac muscle cells/ that _initiate_
+    and _distribute_ electrical /impulses/ throughout the /heart/.
+
+    - Sinoatrial (SA) node :: A small mass of /cardiac muscle cells/ located _near_
+         the _junction_ of the /right atrium/ and /superior cardiac muscle cells/
+         elsewhere in the /heart/.
+    - Atrioventricular (AV) node :: Mass of muscle cells between the /atria/ and
+         /ventricles/ that _receives signals_.
+    - Atrioventricular (AV) bundle :: From the /AV node/, the _electrical signal
+         sweeps_ to this bundle or group of conducting fibers in the /septum/
+         between the two /ventricles/.
+
+*** Blood exerts pressure against vessel walls
+    /Blood pressure/ is the force that blood exerts on the wall of a /blood vessel/.
+    It is measured as two numbers corresponding to /systolic/ and /diastolic
+    pressures/. /Hypertension/ (high blood pressure) is a serious risk factor for
+    /cardiovascular disease/ and other health problems.
+
+    | *Blood pressure category* | *systolic* (mm Hg) |     | *Diastolic* (mm Hg) |
+    |-------------------------+------------------+-----+-------------------|
+    |                         |                  | <c> |                   |
+    | Normal                  | Less than 120    | and | Less than 80      |
+    | Prehypertension         | 120--139         | or  | 80--89            |
+    | Hypertension, Stage 1   | 140--159         | or  | 90--99            |
+    | Hypertension, Stage 2   | 160 or higher    | or  | 100 or higher     |
+
+    - Blood pressure :: _Force_ that /blood/ _exerts_ on the wall of a /blood vessel/ as
+         a result of the pumping action of the /heart/.
+    - Sphygmomanometer :: A tool for measuring /blood pressure/.
+    - Systolic pressure :: The _highest pressure_ of the cycle reached _during_
+         /ventricular systole/ when the /ventricles/ _contract_ to _eject_ /blood/ from
+         the /heart/.
+    - Diastolic pressure :: The _lower pressure_ occurring during /ventricular
+         diastole/ when the /ventricles/ _relax_.
+    - Hypertension :: /Blood pressure/ higher than normal. Significant risk factor
+         for /cardiovascular disease/, because the _greater pressure_ means _more
+         strain_ on /cardiovascular system/.
+
+         It is called the "_silent killer_" because usually it has no symptoms.
+    -  Hypotension :: When blood pressure is too low. Generally only a problem
+         only if /blood pressure/ falls enough to reduce /blood/ flow to the /brain/,
+         causing _dizziness_ and _fainting_.
+
+*** Cardiovascular disorders: A major hearth issue
+    /Cardiovascular disorders/ are the number one killer in the United States.
+    Most disorders are caused either by conditions that result in failure of the
+    /heart/ as a pump or by conditions in which _damage_ to /blood vessels/ _restricts
+    flow_ or _ruptures vessels_.
+
+    - Heart attack :: (/myocardial infarction/) Sudden death of an area of /heart
+         tissue/ due to oxygen starvation.
+    - Congestive heart failure :: High /capillary blood pressure/ causes more
+         fluid that usual to filter out of the /capillaries/ and into the
+         /interstitial space/, causing fluid congestion.
+
+** Ch. 11
+*** The Nervous System
+    The nervous system has two major subdivisions: the /central nervous system/
+    (CNS), consisting of the /brain/ and /spinal cord/, and the /peripheral nervous
+    system/ (PNS), which includes all parts of the nervous system that lie
+    outside the CNS. The motor division of the PNS has a /somatic division/, which
+    controls /skeletal muscles/, and an /autonomic division/, which controls /smooth
+    muscles/, /cardiac muscles/, and /glands/.
+
+    The nervous system is the body's main _control_ system. Controls physical
+    _movements_, maintains _homeostasis_ of many internal variables, and even
+    initiates our _higher thought_ processes and _emotions_.
+
+    #+ATTR_ORG: :width 100
+    [[./labs/Selection_004_2016-10-03_17-48-16.png]]
+
+    - Central nervous system :: {CNS} Consists /exclusively/ of the /brain/ and
+         /spinal cord/; all other nervous tissue is considered to be part of the
+         peripheral nervous system
+
+         - Brain :: An organ of soft nervous tissue contained in the skull.
+         - Spinal cord :: Bundle of /nervous tissue/ and /support cells/ that
+              extends from the /medulla oblongata/ in the brain stem to the lumbar
+              region of the vertebral column.
+
+    - Peripheral nervous system :: {PNS} All nervous tissue considered not to
+         be part of the brain or spinal cord.
+
+         - Sensory nerves :: {afferent nerves} Nerves that collect information
+              from your surrounds or from parts of your body and transmit it
+              /toward/ the CNS for processing.
+              - Signals from external environment
+              - Signals from skin, tendons, and muscles
+              - Signals from internal organs
+         - Motor nerves :: {efferent nerves} Nerves that transmit commands /away/
+              from the CNS to muscles, organs, glands, and vessels in response
+              to information collected from the sensory nerves.
+
+              Also /motor neuron/, a nerve cell whose cell body is located in the
+              spinal cord and whose fiber (/axon/) projects outside the /spinal
+              cord/ to directly or indirectly control effector organs. They are
+              /efferent nerve fibers/.
+         - Somatic nervous system :: Controls voluntary and involuntary skeletal
+              muscle movement.
+         - Autonomic nervous system :: Made up of involuntary pathways that
+              control /smooth muscle/, /cardiac muscle/, and /glands/. Further divides
+              into two systems\dots
+              - Sympathetic ::   [flight or flight] Excitatory pathway that
+                   helps your body in times of _stress_ by _elevating_ blood
+                   pressure, heart rate, respiratory rate, and the volume of
+                   blood flow to muscles.
+              - Parasympathetic :: [rest and digest] System most active in tames
+                   of relaxation, and it stimulates gland secretions and
+                   digestive processes while dampening sympathetic effects.
+
+    - Neuroglia :: Specialized connective tissue cells of the nervous system.
+         They do not generate or transmit impulses. Some secrete a special
+         substance called /myelin/. Neuroglial cells _support_ and _protect_ /neurons/.
+         Neuroglial cells called /Schwann cells/ (in the PNS) and /oligodendrocytes/
+         (in the CNS) form /myelin sheaths/ that _protect_ /axons/ and _speed
+         transmission_ of impulses.
+
+         In the PNS, many /neuron axons/ are enclosed and protected by /neuroglial
+         cells/ called /Schwann cells/. In the CNS, they are oligodendrocytes.
+
+         Greek // neuron, glue
+         - Schwann cells :: Neuroglia that secrete /myelin/ in the /peripheral
+              nervous system/. Schwann cells wrap themselves around a short
+              segment of an axon many times as a sort of insulating blanket,
+              creating a _shiny white protective layer_ around the axon called a
+              /myelin sheath/.
+
+              Principal /glia/ of the peripheral nervous system
+         - Oligodendrcytes :: Neuroglia that secrete myelin in the /central
+              nervous system/. Unlike the sheath formed by Schwann cells, the
+              sheath formed by oligodendrocytes degenerates once the axon it
+              protects is destroyed, so the neurons of the central nervous
+              system do not regenerate after injury--this is why spinal cord
+              injuries and CNS disorders result in a permanent change or loss of
+              function.
+              - Do Oligodendrocytes send nerve signals? *NO*, no /neuroglia/ send
+                signals.
+         - Astrocytes :: neuroglial cells that form barriers around the neurons,
+              shielding them from direct contact with substances carried in the
+              blood. Form the basis of the blood-brain barrier.
+
+    - Myelin sheath :: Surrounds the /axon/ of some nerve cells forming an
+         electrically insulating layer around the neuron. White in color.
+
+         Three important functions: *1)* It saves the /neuron/ energy, *2)* speeds up
+         the transmission of impulses by preventing nearly all leakage of
+         charged ions across the axon membrane causing action potentials to jump
+         between nodes of Ranvier causing the /saltatory conduction/, and *3)* it
+         helps damaged or severed axons of the peripheral nervous system
+         regenerate.
+
+    #+ATTR_ORG: :width 100
+    [[file:book/AfmsJ_2016-10-25_20-22-30.jpg]]
+
+    - Nerve :: 
+              
+    - Neurons :: Cell present in the nervous system highly specialized for
+         communication.
+
+         Carry electrical impulses in nervous tissue. Myelinated neurons can
+         transmit electrical impulses more quickly than unmyelinated neurons.
+
+         Also /interneurons/ within the CNS transmit impulses between components
+         of the CNS. /Interneurons/ input from sensory neurons, integrate this
+         information, and influence the function of other neurons.
+
+         - Axon :: long, slender projection of a nerve cell, or /neuron/, that
+              typically conducts electrical impulses away from the neuron's cell
+              body. Contains a small amount of /cytoplasm/. Each axon terminal ends
+              in a small, rounded tip called an /axon bulb/.
+         - Dendrite :: Branched projections of a /neuron/ that act to propagate the
+              electrochemical stimulation received from other neural cells to the
+              cell body, or /soma/.
+              - Greek /déndron/ tree
+         - Soma :: Bulbous end of a /neuron/ containing the /cell nucleus/. The
+              survival of some sensory neurons depends on /axon terminals/ making
+              contact with sources of survival factors that prevent apoptosis.
+              - Greek /somas/ body
+         - Apoptosis :: process of programmed cell death that occurs in
+              multicellular organisms. Between 50 and 70 billion cells die each day
+              due to apoptosis in the average human adult.
+              - Ancient Greek /apoptosis/ a falling off
+         - Node of Ranvier :: [myelin sheath gaps] Periodic gaps in the insulating
+              /myelin sheath/ of myelinated axons where the axonal membrane is
+              exposed to the extracellular space.
+
+*** Neurons initiate action potentials
+    There are _millions_ of these /Sodium/ and /Potassium/ gates. Neurons generate
+    and transmit electrical impulses from one part of the body to another.
+    Sensory neurons transmit impulses to the CNS. Interneurons transmit impulses
+    between components of the CNS. Motor neurons transmit impulses away from the
+    CNS to muscles and glands.
+
+    Action potential is greater in larger-diameter axons and in axons covered by
+    an /insulating sheath/. A neuron's /resting potential/ of about -70 millivolts
+    is _maintained_ by the _constant action_ of the sodium-potassium pump. Impulses
+    arriving from other neurons can cause small, local changes in the neuron's
+    membrane potential called /graded potentials/. The sum of all graded
+    potentials may initiate a self-propagating, all-or-none action potential in
+    a neuron. An action potential involves /three events/: _depolarization_,
+    _repolarization_, and _reestablishment_.
+
+    - Depolarization :: /Sodium/ moves into the axon. When threshold is exceed,
+         voltage-sensitive Na^{=+=} channels in the axon's membrane open briefly
+         and Na^{=+=} ions diffuse rapidly /into/ the cytoplasm of the axon.
+    - Repolarization :: /Potassium/ moves out of the axon. After a short delay,
+         Na^{=+=} channels close automatically. But the reversal of the membrane
+         polarity triggers the opening of K^{=+=} channels that allows K^{=+=}
+         ions to diffuse rapidly /out/ of the cell.
+    - Reestablishment :: K^{=+=} channels are slow to close, so there is a brief
+         overshoot of membrane voltage during which the interior of the /axon/ is
+         slightly hyperpolarized. Shortly after the K^{=+=} channels close, the
+         resting potential is reestablished.
+
+*** Information is transferred from a neuron to its target
+    At the axon terminal of a neuron, the action potential and its information
+    must be converted to another form for transmittal to its target (muscles
+    cell, gland cell, or another neuron). It reaches a junction called a
+    /synapse/, where a chemical is released called a /neurotransmitter/ because it
+    transmits a signal from a neuron to its target.
+
+    - synapse :: A junction where information is converted from one form to
+         another. 
+         - presynaptic membrane :: The cell membrane of the neuron that is sending
+              the information.
+         - postsynaptic membrane :: The membrane of the cell that is about to
+              receive the information.
+         - synaptic cleft :: Fluid-filled gap that separates the pre- and post-
+              synaptic membranes.
+
+    - neurotransmitter ::
+
+*** regions of the brain
+    - Parietal lobe :: Interprets sensory information from skin.
+    - Occipital lobe :: Processes visual information.
+    - Frontal lobe :: Initiates motor activity. Responsible for speech.
+         Conscious thought.
+    - Temporal lobe :: Interprets auditory information. Comprehends language.
+         Perceptual judgment.
+         - Prefrontal cortex (PFC) :: The /cerebral cortex/ which covers the front
+              part of the /frontal lobe/. Implicated in planning complex cognitive
+              behavior, personality expression, decision making, and moderating
+              social behavior.
+
+*** parts of the brain
+    - Pituitary gland :: Referred to as the 'master gland', but is about the
+         size of a pea. Protrusion off the bottom of the /hypothalamus/ It
+         controls several of the other /hormone glands/ (e.g. /adrenals/, /thyroid/).
+         It sits in a bony hollow called the /pituitary fossa/ (it was called
+         /sella turcica/ elsewhere as well).
+    - amygdala :: A part of the /limbic system/ in the /temporal lobe/. When the
+         amygdala senses threat, it becomes over-activated, blocking new
+         sensory information from accessing the memory and association
+         circuits.
+
+         THIS MEANS THAT IF A STUDENT IS STRESSED OUT, THEY ACTUALLY CAN NOT
+         LEARN. THE AMYGDALA IS BLOCKING information from going to higher
+         cognitive centers of the brain, like the /prefrontal cortex/ where
+         information is processed, associated, and stored for later retrieval
+         and executive functioning
+
+**** *Forebrain*
+     Determines most _complex behavior_, including _emotions_ and conscious though.
+     Important to the forebrain is /hypothalamus/ and /thalamus/, /limbic system/, and
+     /cerebrum/.
+
+     The hypothalamus and thalamus _maintain homeostasis_ and _process information_.
+     The hypothalamus is a small region at the base of the forebrain that
+     coordinates some automatic functions of the /pituitary gland/.
+
+     - Cerebrum :: Coordinates _language_. Controls _decision making_. Produces
+          _conscious thought_.
+     - Corpus callosum :: Bridges the two cerebral hemispheres.
+     - Thalamus :: Receives, processes, and transfers information.
+     - Hypothalamus :: Part of the /limbic system/. Works mostly with the
+          /autonomic nervous system/.
+          
+**** Midbrain
+     Most function of the midbrain relate to vision and hearing. Visual and
+     auditory sensory inputs pass through the midbrain before being relayed to
+     higher brain centers.
+
+     - Midbrain :: Relays visual and auditory inputs. Coordinates movement.
+
+**** *Hindbrain*
+     The evolutionarily oldest, more primitive hindbrain controls must automatic
+     activities.
+
+     - Medulla oblongata :: Controls automatic functions of internal organs.
+     - Pons :: Connects cerebellum, spinal cord with higher brain centers.
+          Aids medulla in regulating respiration.
+     - Cerebellum :: Controls basic and skilled movements.
+
+*** misc vocabulary
+    - saltatory conduction :: Leaping pattern of conduction along myelinated
+         neurons.
+         - Latin /saltare/ dance
+    - Neuroplasticity :: Plasticity is the capacity of the brain to change with
+         learning. There are three circumstances where neuroplasticity occurs in
+         the brain:
+         1. At the beginning of life: when the immature brain organizes itself.
+         2. In case of brain injury: to compensate for lost functions or maximize
+            remaining functions.
+         3. Through adulthood: whenever something new is _learned_ and _memorized_.
+
+*** Common neurotransmitters
+    /NTS/ stands for Neurotransmitter Senses. Chemical messengers, are
+    endogenous chemicals that enable neurotransmission. 
+    
+    Neurotransmitters do not use a transport system.
+
+    - Neurohormone :: Just a hormone.
+
+    - Acetylcholine :: Excitatory on skeletal muscles; excitatory or inhibitory
+         at other sites, depending on receptors. Neurotransmitter used at the
+         /neuromuscular junction/---it is the _chemical_ that /motor neurons/ of the
+         nervous system release in order to _activate muscles_.
+         - /Neuromuscular junctions/, /autonomic nervous systems/, /brain/
+         - binds muscle cell(s)---causes depolarization.
+    - Norepinephrine :: [noradrenaline] Excitatory or inhibitory, depending on
+         receptors, plays a role in emotions. Synthesized and released by
+         /central nervous system/ and also by the /sympathetic nervous system/.
+         Norepinephrine is _produced_ in _closely packed_ /brain/ /cell neurons/. Exert
+         powerful effect on the brain. Sympathetic ganglia, located in the
+         /spinal cord/ or in the /abdomen/, uses norepinephrine; norepinephrine also
+         is released directly into the bloodstream by the /adrenal glands/.
+         Mobilizes the brain and body for action.
+         - Latin /noradrenaline/ at or alongside the kidneys
+         - Areas of brain and spinal cord, autonomic nervous system
+    - Serotonin ::  Usually inhibitory; involved in moods, sleep cycle,
+         appetite
+         - Areas of brain, spinal
+    - Dopamine :: Excitatory or inhibitory, depending on receptors; plays a
+         role in emotions
+         - Areas of brain, parts of peripheral nervous systems
+    - Glutamate :: Usually excitatory; major excitatory neurotransmitter in
+         brain. By a wide margin, /glutamate/ is abundant neurotransmitter in the
+         vertebrate nervous system. well over 90% of the synaptic connections in
+         the human brain happen with /glutamate/.
+         - Areas of brain, spinal cord                         
+    - Endorphins :: Natural opiates that inhibit pain; usually inhibitory
+         - Many areas in brain, spinal cord
+    - Gamma-aminobutyric acid :: Usually inhibitory; principal inhibitory
+         neurotransmitter in brain
+         - Areas of brain, spinal cord
+    - Somatostatin :: Usually inhibitory; inhibits pancreatic release of growth
+         hormone
+         - Areas of brain, pancreas    
+           
+* other
+** important things?                                               :noexport:
+*** Memory processing: The role of the Hippocampus and Amygdala
+*** Cardiac Output
+*** Holding Your Breath: The Physiology of the Bratty Kid
+*** PTH, Osteoporosis and Calcium Homeostasis
+*** Hypothalamus and Pituitary Gland
+*** Muscle Cell Microanatomy
+*** Summation of Action Potentials
+*** Circuits of Blood Flow
+** Medical Professions
+
+   - Cardiology :: Medical science dealing with the heart and heart diseases.
+     - Latinized Greek /cardia, kardia/ "heart"
+
+   - Dermatology :: Study of the skin and its diseases.
+     - Latin /derm/ "skin"
+
+   - Endocrinology :: Study of the hormones, hormone-secreting glands, and their
+        diseases.
+     - Latin /endo/ "within"
+
+   - Epidemiology :: Study of the factors determining the distribution and
+        frequency of the occurrence of health-related conditions within a
+        defined human population.
+     - Latin /epi/ "upon, among" /demos/ "people"
+
+   - Gastroenterology :: Study of the stomach and intestines and their diseases.
+     - Latin /gastro/ "stomach" /entero/ "intestines"
+
+   - Geriatrics :: Branch of medicine dealing with older individuals and their
+        medical problems.
+     - Latin /geros/ "old"
+
+   - Gynecology :: Study of the female reproductive system and its diseases.
+     - Latin /gyno/ "pertaining to women"
+
+   - Hematology :: Study of the blood and blood diseases.
+     - Latin /hem/ "blood"; also /hemo/ and /hemato/
+
+   - Histology :: Study of the structure and function of tissues, also called
+        microscopic anatomy.
+     - Latin /hist/ "tissue"
+
+   - Immunology :: Study of the body's resistance to disease.
+     - Latin /im-/ "negation"
+
+   - Neonatology :: Study of newborns. 
+     - Latin /neo/ "new"
+
+   - Neurology :: Study of the nervous system and its disorders.
+     - Latin /neuro/ "nerve"
+
+   - Obstetrics :: Branch of medicine dealing with pregnancy and childbirth.
+     - Latin /obstare/ "to stand by"
+
+   - Oncology :: Study of cancers
+     - Latin /onco/ "cancer"
+
+   - Ophthalmology :: Study of the eye and eye diseases
+     - Latin /onco/ "cancer"
+
+   - Orthopedics :: Branch of medicine dealing with the muscular and skeletal
+        systems and their problems.
+     - Greek /orthos/ "correct"
+
+   - Otolaryngology :: Study of the ear, nose, and throat (larynx), and their
+        diseases.
+     - Latin /ot/ "ear" /lary/ "larynx"
+
+   - Pathology :: Study of structural and functional changes that disease
+        produces.
+     - Greek /pathos/ "suffering, disease"
+
+   - Pharmacology ::  Study of drugs and their uses in the treatment of
+       disease.
+     - Latin /pharm/ "drug"
+
+   - Psychiatry :: Branch of medicine dealing with the mind and its disorders.
+     - Greek /psyc/ "the mind"
+
+   - Radiology :: Study of X-rays and radioactive substances and their uses in
+        the diagnosis and treatment of diseases.
+     - Latin /radio/ "wireless transmission"
+
+   - Toxicology :: Study of poisonous substances and their effects upon body
+        parts.
+     - Latin /toxi/ "poison"
+
+   - Urology :: Branch of medicine dealing with the urinary system, apart from
+        the kidneys (nephrology), and male reproductive system, and their
+        diseases.
+     - Latin /uro/ "urine"
+** lab
+*** vocabulary (lab 2)
+
+    - concentration gradient :: relative difference in concentration
+
+    - crenation :: [process] shriveling of the cell or the movement of water out of
+         the cell
+
+    - diffusion :: [process] a /solutes/ move from an area of higher to an area of
+         lower concentration
+
+    - equilibrium :: concentration of salt on both sides of the membrane is the same
+
+    - hypertonic :: solution has greater /solute/ concentration than another
+         solution
+
+    - hypotonic :: solution has lesser /solute/ concentration than another solution
+
+    - isotonic :: solution have equal number of total molecules suspended
+
+    - lyse ::  [process] rupturing of the cell or the movement of water into the
+         cell
+
+    - osmosis :: [process] /solvent/ molecules travel down their concentration
+         gradient
+
+    - solution :: contains two parts, the /solvent/ and the /solute/
+
+      - solvent :: dissolving agent of a solution
+
+      - solute :: the molecules suspended in the solvent
+   
+*** lab vocabulary (lab 3)
+
+    - genome :: complete copy of information
+
+    - protease :: an enzyme that breaks down proteins and peptides
+
+    - lysis :: the disintegration of a cell by rupture of the cell wall or
+         membrane
+
+    - gene :: specific stretch of DNA transcribed into messenger RNA /mRNA/
+
+    - DNA :: Deoxyribonucleic acid
+
+    - RNA :: Ribonucleic acid
+
+      - mRNA :: messenger Ribonucleic acid
+
+           Cellular organisms use mRNA to convey genetic information (using G,
+           U,A, and C to denote the nitrogenous bases guanine, uracil, adenine,
+           and cytosine)
+
+      - tRNA :: transfer RNA
+
+           Deliver amino acids to the ribosome, where ribosomal RNA (rRNA) then
+           links amino acids together to form protein pairs.
+
+    - cardiomyocyte :: Shorten and lengthen their size to proper form during the
+         beating of the heart.
+
+         Make up the /atria/ where blood enters the heart.
+
+      - (phase one) systole :: Rest phase, considered polarized. 
+
+      - (phase two) diastole ::
+
+
+    - genotype :: Genetic constitution of an individual organism.
+         
+         A listing of /alleles/.
+
+    - dominant (vs. recessive) :: Always expressed when present in individual's
+         genome. /Recessive alleles/ get masked by /dominant alleles/.
+
+    - transcription :: [process] make a complementary strand of mRNA from
+         genomic /DNA/.
+         
+    - phenotype :: Results of the interaction of its genotype with the
+         environment. Observable.
+
+    - homozygous :: Both individual's /alleles/ for a specific trait are the
+         *same*.
+
+    - heterozygous :: Both individual's /alleles/ for a specific trait are
+         *different*.
+
+    - codominance :: /Alleles/ don't encode A or B. Both alleles are expressed
+         equally. Observable in individuals with the blood type AB.
+         
+    - incomplete dominance :: Can occur with /heterozygous phenotypes/.
+
+         This is the red flower and a white flower make a pink flower type of
+         thing.
+
+    - translation :: [process] /ribosomes/ build proteins out of their sub-unit
+         pieces called /amino acids/.
+
+    - allele (vs. gene) :: Alternative versions of a /gene/. One has two
+         potentially different copies of each gene.
+    - antibody (vs. antigen) :: /Protein/ displayed on the surface of the cell.
+         RBCs created from DNA that encodes the type A allele which each display
+         the type A antigen, or protein on the outside of the cell membrane.
+         Type B cells display type B surface protein.
+    - /case/ OO :: This person has inherited no genes for surface antigens and
+         thus has no surface antigens displayed on the surface of their RBCs.
+    - Transcription ::
+    - Carbohydrate :: /polysaccharides/ long chains of sugars. Provide the body
+         with a source of fuel and energy
+      - Lipid :: Long hydrocarbon chains with a large amount of energy, energy
+           storage molecules. Energy storage mechanic of the body.
+      - Glycolipids :: Contains oligosaccharides with 1-15 saccharide residues.
+      - Phospholipids :: Contain positively charged head linked to the
+           negatively charged phosphate groups.
+      - Serols :: head contain a steroid ring.
+      - Protein :: Many different functions like, structural support, help in
+           body movement, defense against germs and infections.
+      - Monosaccharides :: simple sugars composed of 3-7 carbon atoms.
+           Monosaccharides and disaccharides are sweet, crystalline and water
+           soluble substances.
+      - glycosidic bonds :: 
+      - free aldehye :: /reducing sugars/ reducing agents
+      - free ketone :: /reducing sugars/ reducing agents
+    - Nucleic Acid :: Large biomolecules essential for all know forms of life.
+         They function in encoding, transmitting, and expressing genetic
+         information.
+    - Sugar :: Sweet, short-chain /carbohydrates/, many of which are used in
+         food.
+*** vocabulary (lab 4)
+
+    - theory :: Refers to a broad theme of concepts that unify a single topic.
+
+    - natural selection :: Organisms that are better adapted for their
+         environment will reproduce more successfully. 
+
+    - evolution :: Better adapted organisms create a higher distributions of
+         allele frequencies in a population over time.
+
+    - fitness :: An individual's ability to reproduce.
+
+**** data
+    
+     - replicate :: Snapshot of data that shouldn't be changed, but rather
+          adapted into more readable format for other things
+** important
+*** cells
+
+    - Eukaryote :: Have membrane-bound organelles, especially the nucleus, which
+         contains the genetic material and is enclosed by the /nuclear
+         envelope/.
+
+    - Prokaryote :: A single-celled organism that lacks a membrane-bound
+         nucleus, mitochondria, or any other membrane-bound organelle.
+
+         All the intracellular water-soluble components (proteins, DNA, and
+         metabolites) are located together in the cytoplasm enclose by the cell
+         membrane.
+
+      - cytoplasm :: Material or protoplasm within a living cell, excluding the
+           cell nucleus.
+
+    - Nucleus :: Contain most of the cell's genetic material, organized as
+         multiple long linear DNA molecules in complex with a large variety of
+         proteins like /histones/ and /chromosomes/.
+
+      - Latin /nucleus/ kernel, seed
+
+    - Nucleolus :: Largest structure in the nucleus of eukaryotic cells,
+         primarily serving as the site of ribosome synthesis and assembly.
+
+    - Ribosomes :: Complex molecular machine, serving as the site of biological
+         protein synthesis (translation). Link amino acids together in the order
+         specified by mRNA molecules.
+
+    - Endoplasmic reticulum :: Organelle in eukaryotic cells. Forms
+         interconnected network of flattened, membrane-enclosed sacs or
+         tube-like structures known as /cisternae/. 
+
+         Folds protein molecules in sacs called /cisternae/. Transport
+         synthesized proteins in /vesicles/ to the /Golgi apparatus/.
+
+    - Golgi apparatus :: Organelle part of the cellular endomembrane system.
+         Packages proteins into membrane-bound vesicles inside the cell before
+         being sent to destination.
+
+    - Various vesicles :: Small structure within a cell; a fluid enclosed by a
+         /lipid bilayer/. Used to carry things (?)
+
+    - Mitochondria :: The powerhouse of the cell. Generate most of the cell's
+         adenosine triphosphate (ATP).
+
+    - Cytoskeleton :: Complex network of interlinking filaments and tubules that
+         extend throughout the cytoplasm. The function of this depends highly on
+         the cell in question.
+
+    - Cilia and flagella :: Projections from the cell. Move the cell itself or
+         move substances over or around the cell.
+
+*** Blood typing
+
+    [[file:labs/tut3_compatible_blood_2016-09-20_13-13-59.jpg]]
+
+    - agglutination :: mixtures have clumping
+         
+      - Blood agglutinating means the bloods mixed are not compatible with the
+        kind of antibody.
+      
+      - No agglutination in tube with A antibodies means patient's RBC do not
+        have A antigens.
+
+      - Agglutination in tube with B antibodies means patient's RBC have B
+        antigens.
+
+      - No agglutination in the Rh tube means the patient's RBC do not have Rh
+        antigens, so the blood is Rh-.
+        
+    - ABO blood system ::
+
+      - O :: receives O
+
+      - A :: receives A and O
+
+      - B :: receives B and O
+
+      - AB :: receives AB, A, B, and O
+           
+    - Rh blood system ::
+
+      - Rh+ :: receives Rh+
+
+      - Rh- :: receives Rh-
+
+    - O Rh- :: /universal donor/
+
+*** Anatomy and Levels of Organization
+**** Explanation of levels
+
+     1. Atom
+       
+        Smallest unit of an element of matter.
+
+     2. Molecule 
+
+        More than one atom in a stable association.
+
+     3. Cell
+
+        Smallest Unit of Life.
+
+     4. Tissue
+    
+          An association of /cells/ with the same general structure and function.
+
+        1. Epithelium :: animal tissue that lines the cavities and surfaces of blood
+              vessels and organs throughout the body.
+
+           - Latin /epi-/ "on" /thele/ "nipple"
+
+     5. [[*Organs & Organ Systems][Organs & Organ Systems]]
+
+        An ossociation of several tissue types that carry out a specific
+        function. Two more organs work together to carry out a general function
+        in an /organ system/.
+
+     7. Organism 
+
+        An individual living being composed of several organs or organ systems.
+
+     8. Population
+    
+        A group of individuals of the same species living in the same area.
+
+     9. Community
+
+        Several populations of different species who inhabit the same area and
+        interact with each other.
+
+     10. Ecosystem
+
+           All of the organisms in a given area plus all of the nonliving matter and
+           energy.
+
+     11. Biosphere
+
+          All ecosystems combined. The portion of Earth occupied by living organisms,
+          plus those organisms.
+
+**** Organs & Organ Systems
+    
+     An association of several tissue types that carry out a specific function.
+     Two more organs work together to carry out a general function in an /organ
+     system/.
+
+     - integumentary :: skin, hair, nails
+       - integument :: natural covering, as a skin, shell, or rind
+         - Latin /integumentum/ a covering; from /integere/ to cover
+     - skeletal :: bones, as well as ligaments, and cartilages
+       - modern Latin /sceleton/ bones, bony framework of a the body; greek
+         /skeleton soma/ dried-up body, mummy, skeleton from /skeletos/ dried-up
+         or /skellein/ dry up, make dry, parch; PIE root /skele-/ to parch, wither
+     - muscular :: muscles
+       - French /muscle/ muscle; Latin /musculus/ a muscle, literally little
+         mouse, diminutive of /mus/ mouse
+     - nervous :: brain, spinal cords, nerves, sense organs
+       - Latin /nervosus/ sinewy, vigourous /nervus/ sinew, nerve
+     - endocrine :: endocrine glands and hormones, pituitary gland
+      
+          collection of glands of an organism that secrete hormones to the
+          circulatory system
+
+       - Latinized Greek /endo/; Greek /krinein/ to separate, distinguish
+
+     - digestive :: mouth, tongue, teeth, salivary glands, pharynx, esophagus,
+          stomach, liver, gallbladder, pancreas, small intestine, and large
+          intestine
+
+       - Old French /digestif/; Latin /digestivus/ pertaining to digestion Latin
+         /digerere/ digest
+
+     - cardiovascular :: heart, arteries, veins, capillaries, and blood
+
+       - modern Latin /vascularis/ of or pertaining to vessels or tubes; Latin
+         /vasculum/ a smell vessel; /vas/ [diminutive] vessel; Latinized Greek
+         /cardia, kardia/ heart
+
+     - lymphatic :: lymphatic vessels, lymph fluid, lymph nodes, thymus gland,
+          and spleen are all part of the circulatory system; vital part of immune
+          system; carrying clear fluid called /lymph/ directly towards the heart.
+
+       - Latin /lymphaticus/ from /lympha/ water (or mad, frenzied)
+
+     - respiratory :: nasal cavity, pharynx, larynx, trachea, bronchi, and lungs
+
+       - modern Latin /respiratorius/ French /respiratoire/ Latin /respirationem/
+         breathing, respiration
+
+     - urinary :: kidneys, ureters, urinary bladder, and urethra
+
+       - modern Latin /urinarius/; Latin /urina/ urine
+
+     - reproductive (male) :: scrotum, testes, prostate gland, penis, and urethra
+
+       - French /reproduire/; Old French, Latin /re-/ again, back, anew, against;
+         Latin /producere/ lead or bring forth, draw out
+
+     - reproductive (female) :: ovaries, uterine tubes, uterus, vagina, and clitoris
+
+       - French /reproduire/; Old French, Latin /re-/ again, back, anew, against;
+         Latin /producere/ lead or bring forth, draw out
+
+**** Issues and controversies
+
+     The slide makes a point that each of these has a corresponding level of
+     problem which needs to be dealt with as well. For example, on a community we
+     need to consider problems about animal life that we impact, or on a cellular
+     level we need to deal with cloning adult animals, plants, and humans from a
+     single cell.
+** misc                                                            :noexport:
+
+   - How to get rid of water?
+
+     All of the major systems that one would think. It's not just lost by magic.
+     Respiratory, Digestive, Urinary, Integumentary,...
+
+   - How to get rid of CO_2?
+
+     Primarily the Respiratory System. CO_2 is expelled through the lungs. You
+     breath every day.
+
+   - Genetics questions will be easy on the test.
+
+   - Muscles need more glycogen and mitochondria than other animal cells. 
+
+     - glycogen :: /carbohydrate/ 
+
+       - French /glycogène/ sugar-producer; Greek /glyco-/
+
+*** natural selection
+*** select body regions (I need to know)
+
+    - Axillary :: of or relating to the armpit or shoulder
+
+    - Brachial :: of or relating to the arm, specifically the upper arm, or an
+         arm-like structure.
+
+    - Cephalic :: pertaining to the head
+
+      - Latin /cephalicus/ Greek /kephalikos/ pertaining to the head; Greek
+        /kephale/ head
+
+    - Cervical :: French /cervical/ of the neck or of the neck of the womb, like
+         cervical cancer
+
+    - Digital :: ?
+
+      - Latin /digitalis/ from /digitus/ finger or toe
+
+    - Dorsal :: ?
+
+      - Medieval Latin /dorsalis/ from Latin /dorsualis/ of the back; Uncertain
+        /dorsum/ back
+
+    - Femoral :: ?
+
+      - Medieval Latin /femoralis/ Latin /femur/ thigh
+
+    - Genital :: ?
+
+      - Latin /genitalis/ pertaining to generation or birth, fruitful; Latin
+        /gignere/ to beget
+
+    - Gluteal
+      - Modern Latin /glutaeus/ Greek /gloutos/ the rump, the buttocks
+
+    - Lumbar
+      - pertaining to or situated near the loins or lower back
+      - Modern Latin /lumbaris/ Latin /lumbus/ loin 
+
+    - Nasal
+      - French /nasal/ Latin /nasus/ nose, the nose, sense of smell
+
+    - Occipital
+      - Middle French /occipital/ Medieval Latin /occipitalis/ Latin /occiput/ back
+        of the skull
+        - From /ob-/ against, behind + /caput/ head
+
+    - Orbital
+      - the eye socket
+      - Old French /orbite/ Medieval Latin /orbita/ Latin /orbita/ wheel track,
+        beaten path, rut, course, orbit
+
+    - Otic
+      - Greek /otikos/ From /otos/ ear; pertaining to the ear
+
+    - Palmar
+      - Latin /palma/ palm of the hand
+      - dorsal is used to describe the back of the hand; eg the back of a dog's paw
+        is its dorsal surface, the front side is the palmar or plantar surface
+
+    - Pectoral
+      - Middle French /pectoral/ Latin /pectorale/ breastplate
+
+    - Pedal
+      - French /pédale/ Italian /pedale/ Latin /pedale/ (thing) of the foot
+
+    - Umbilical
+      - Medieval Latin /umbilicalis/ of the naval; Latin /umbilicus/ navel
+
+    - Vertebral
+      - Latin /vertebra/ joint or articulation of the body, joint of the spine
+      - notion that the spin is the hinge of the body
+
+** Eugenics                                                        :noexport:
+
+   "When science went sour."
+
+   Mendel: 
+
+   - Look at my peas
+
+
+   Sir Frances Galton:
+
+   - Positive and negative eugenics
+     
+
+   Charles Davenport :
+
+   - Improvement to human race by better breeding.
+     
+
+   Harry Laughlin (1914):
+
+   - Who should be sterilized?
+
+     - Everybody
+
+     - Moron
+
+     - Imbecile
+
+     - Idiot
+
+   - Better Baby Contests
+
+   Margaret Sanger:
+
+   - Birth Control (huge)
+   
+*** Buck vs. Bell (1927)
+    
+    We must sterilize the feeble minded. Sterilization of Carrie Buck because
+    here genes were thought to be inadequate. "Three generations of imbeciles
+    are enough."
+
+*** Hitler
+
+    Maybe the same thought process as Buck vs. Bell, honestly. He wanted to get
+    rid of Jews, Homos, and Blacks?
+*** Genetic Testing
+
+    One can prevent things like Huntington's Disease.
+
+    - CRISPER / Cas 9
+
+      Writing DNA, can we be perfect?
+
